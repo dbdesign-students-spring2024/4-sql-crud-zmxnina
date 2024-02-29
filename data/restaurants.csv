@@ -1,0 +1,1001 @@
+id,name,category,price_tier,neighborhood,opening_hours,average_rating,good_for_kids
+1,Lakeside Bistro,Moroccan,Cheap,Midtown,10:00-18:00,2.25,1
+2,The Spicy Spoon,Indian,Cheap,East Village,07:00-15:00,1.94,1
+3,Riverside Cafe,Indian,Medium,Lower East Side,07:00-17:00,4.42,0
+4,The Spicy Spoon,Greek,Cheap,Harlem,06:00-14:00,4.83,1
+5,Seaside Grill & Bar,Mediterranean,Medium,Williamsburg,18:00-02:00,4.64,1
+6,Casa Verde Taqueria,French,Expensive,Midtown,06:00-14:00,1.06,1
+7,Oceanfront Oyster Bar,Argentinian,Medium,Upper East Side,11:00-19:00,1.02,0
+8,Casa del Sol,Moroccan,Cheap,Midtown,11:00-19:00,1.24,1
+9,Oceanfront Oyster Bar,Indian,Cheap,Financial District,16:00-00:00,2.93,0
+10,Mango Madness Tropical,Russian,Medium,East Village,10:00-18:00,2.34,0
+11,Red Pepper Asian Fusion,American,Expensive,Tribeca,10:00-18:00,3.51,0
+12,Fusion Flavors Kitchen,American,Cheap,Hell's Kitchen,08:00-20:00,1.15,0
+13,Green Leaf Salad Bar,Moroccan,Medium,Harlem,12:00-00:00,4.17,0
+14,Driftwood Tavern,Turkish,Medium,Lower East Side,14:00-22:00,1.71,1
+15,Oceanview Grill,Greek,Expensive,Park Slope,08:00-16:00,4.26,0
+16,Golden Gate Diner,Mexican,Expensive,West Village,07:00-15:00,2.86,1
+17,Bella Amore Ristorante,Argentinian,Cheap,Harlem,07:00-17:00,2.52,0
+18,Terra Nova Tavern,French,Expensive,Harlem,15:00-23:00,2.3,0
+19,Emerald Isle Eatery,Mediterranean,Cheap,Upper West Side,09:00-17:00,3.53,0
+20,Rustic Roots Cafe,Greek,Medium,East Village,07:00-17:00,3.04,1
+21,The Spicy Spoon,Turkish,Medium,Tribeca,18:00-02:00,2.1,0
+22,Mango Madness Tropical,Thai,Expensive,Williamsburg,08:00-20:00,3.35,1
+23,Driftwood Tavern,Argentinian,Cheap,Prospect Heights,09:00-21:00,3.69,1
+24,Oceanview Grill,Lebanese,Medium,Brooklyn Heights,11:00-19:00,1.05,1
+25,Zen Garden Sushi Bar,Lebanese,Medium,Chelsea,09:00-21:00,3.21,0
+26,Mountain View Cafe,Chinese,Expensive,Tribeca,18:00-02:00,3.35,1
+27,Golden Harvest Diner,Thai,Expensive,Lower East Side,07:00-14:00,2.61,1
+28,Oceanfront Oyster Bar,Japanese,Expensive,Upper West Side,16:00-00:00,4.66,0
+29,Riverside Bistro,Spanish,Medium,West Village,17:00-01:00,3.72,1
+30,Bella Vista Bistro,Greek,Cheap,Soho,12:00-00:00,1.93,1
+31,Blue Ribbon BBQ,Vietnamese,Expensive,Lower East Side,11:00-23:00,4.88,1
+32,Blueberry Hill Pancake House,Argentinian,Cheap,Bushwick,08:00-16:00,1.43,0
+33,Green Garden Kitchen,American,Cheap,Harlem,13:00-21:00,3.4,1
+34,Island Oasis Cafe,Thai,Cheap,Prospect Heights,10:00-22:00,2.81,1
+35,Garden of Eatin',Mexican,Medium,Midtown,17:00-01:00,4.69,0
+36,Rustic Roots Cafe,Vietnamese,Expensive,West Village,11:00-19:00,2.13,1
+37,Sunrise Diner,Lebanese,Medium,Prospect Heights,08:00-16:00,3.26,1
+38,Cafe Luna Rossa,Russian,Cheap,Financial District,11:00-23:00,4.28,1
+39,Zen Fusion Sushi,Lebanese,Medium,Lower East Side,08:00-20:00,3.13,1
+40,Bella Napoli Pizzeria,Brazilian,Medium,Astoria,15:00-23:00,3.53,1
+41,Bamboo Grove Bistro,Turkish,Cheap,Midtown,07:00-14:00,1.13,1
+42,Fireside Fare,American,Expensive,Chelsea,10:00-18:00,2.5,1
+43,Zenith Zen Sushi,Lebanese,Cheap,Upper West Side,07:00-15:00,2.14,1
+44,Cafe Luna Rossa,Greek,Medium,Chelsea,17:00-01:00,3.63,1
+45,Golden Harvest Diner,Chinese,Expensive,Harlem,07:00-14:00,1.65,1
+46,Spice Market Buffet,Moroccan,Expensive,Upper East Side,07:00-17:00,1.59,1
+47,Riverside Cafe,Vietnamese,Medium,Tribeca,18:00-02:00,4.28,0
+48,Bamboo Grove Bistro,Greek,Cheap,Upper West Side,09:00-17:00,1.3,0
+49,Riverside Cafe,Mediterranean,Cheap,East Village,17:00-01:00,3.94,1
+50,Wildflower Cafe,Brazilian,Cheap,Astoria,11:00-23:00,2.54,1
+51,Green Garden Kitchen,Italian,Cheap,Financial District,09:00-21:00,1.16,1
+52,Riverside Bistro,Mexican,Expensive,Prospect Heights,11:00-19:00,1.59,1
+53,Coastal Catch Seafood,Korean,Medium,Lower East Side,10:00-18:00,2.41,0
+54,Savory Spice Kitchen,Greek,Cheap,Soho,18:00-02:00,3.89,1
+55,Fire & Ice Grill,Korean,Medium,Astoria,15:00-23:00,4.81,1
+56,Sizzling Salsa Cantina,Turkish,Expensive,Brooklyn Heights,07:00-17:00,1.01,1
+57,Coastal Catch Seafood,Turkish,Expensive,Financial District,12:00-20:00,3.25,1
+58,Ocean Blue Grill,Brazilian,Cheap,Long Island City,18:00-02:00,3.32,0
+59,Picante Peppers Mexican,Italian,Expensive,Lower East Side,10:00-22:00,4.75,1
+60,Orchard View Bistro,Indian,Cheap,Tribeca,16:00-00:00,1.56,0
+61,Riverside Bistro,Turkish,Medium,Soho,13:00-21:00,3.96,1
+62,Mango Tango Bistro,Brazilian,Cheap,Chelsea,07:00-14:00,2.85,0
+63,Blue Ribbon BBQ,Moroccan,Expensive,Midtown,15:00-23:00,1.15,0
+64,Royal Oak Tavern,Argentinian,Medium,Upper West Side,18:00-02:00,1.96,0
+65,Casa del Sol,Italian,Expensive,Upper East Side,08:00-20:00,3.96,1
+66,Bamboo Garden Restaurant,Thai,Medium,Greenwich Village,11:00-23:00,2.86,0
+67,Paradise Cove Cafe,Thai,Expensive,Park Slope,14:00-22:00,4.42,0
+68,Harborview Cafe,Thai,Expensive,Upper West Side,12:00-20:00,1.08,1
+69,Bella Luna Trattoria,Russian,Cheap,Tribeca,18:00-02:00,1.29,1
+70,Island Oasis Cafe,Vietnamese,Medium,Long Island City,16:00-00:00,1.46,1
+71,Blueberry Hill Pancake House,Argentinian,Expensive,Greenwich Village,12:00-00:00,1.61,1
+72,Seaside Grill & Bar,Vietnamese,Expensive,Bushwick,12:00-00:00,1.44,0
+73,Paradise Cove Cafe,Brazilian,Cheap,Park Slope,07:00-17:00,2.13,1
+74,Pacific Pearl Oyster Bar,Vietnamese,Cheap,Soho,11:00-23:00,3.08,0
+75,Redwood Smokehouse,Korean,Expensive,Chelsea,15:00-23:00,3.01,0
+76,Zen Fusion Sushi,Italian,Cheap,Brooklyn Heights,07:00-17:00,2.78,0
+77,The Spicy Spoon,Chinese,Expensive,Soho,08:00-16:00,1.09,1
+78,Red Lantern Chinese,Spanish,Cheap,Financial District,12:00-20:00,2.56,1
+79,Spice World,Turkish,Expensive,Financial District,11:00-19:00,4.33,1
+80,Spice Market Buffet,French,Cheap,Midtown,07:00-15:00,3.07,1
+81,Casa Verde Taqueria,Mediterranean,Cheap,Long Island City,17:00-01:00,4.62,0
+82,Cafe Luna Rossa,Lebanese,Cheap,Financial District,14:00-22:00,2.79,0
+83,Paradise Palms Tiki Bar,Japanese,Medium,Brooklyn Heights,07:00-14:00,3.06,1
+84,Coastal Catch Seafood,Thai,Expensive,Long Island City,07:00-14:00,1.24,1
+85,Bluebird Cafe,Lebanese,Cheap,East Village,08:00-20:00,3.13,0
+86,Blue Ribbon BBQ,Japanese,Medium,Prospect Heights,08:00-20:00,1.51,1
+87,Moonlight Cafe,Russian,Medium,Long Island City,13:00-21:00,3.96,0
+88,Green Garden Kitchen,Mediterranean,Cheap,Tribeca,09:00-21:00,2.74,0
+89,Fusion Flavors Kitchen,Moroccan,Cheap,Bushwick,13:00-21:00,4.64,1
+90,Riverwalk Cafe,Lebanese,Cheap,Brooklyn Heights,09:00-21:00,4.24,1
+91,Bella Napoli Pizzeria,Mediterranean,Cheap,Soho,06:00-14:00,3.63,0
+92,Piccolo Pizzeria,Mediterranean,Expensive,Williamsburg,06:00-14:00,2.18,0
+93,Bamboo Grove Bistro,Korean,Medium,Upper West Side,07:00-17:00,4.13,0
+94,Terra Nova Tavern,Argentinian,Cheap,Long Island City,10:00-22:00,1.29,0
+95,Green Garden Kitchen,Greek,Cheap,West Village,17:00-01:00,2.16,1
+96,Bella Vita Ristorante,Indian,Cheap,West Village,07:00-15:00,4.72,1
+97,La Piazza Trattoria,Mexican,Medium,Williamsburg,07:00-15:00,3.16,1
+98,Moonlight Serenade Lounge,Ethiopian,Medium,Greenwich Village,09:00-17:00,1.82,0
+99,Oceanfront Oyster Bar,Japanese,Cheap,Brooklyn Heights,17:00-01:00,3.06,0
+100,Fireside Fare,Mexican,Expensive,Greenwich Village,09:00-21:00,2.35,1
+101,Casa del Sol,Spanish,Cheap,West Village,08:00-16:00,1.49,1
+102,Harvest Table Cafe,Vietnamese,Expensive,Soho,09:00-21:00,3.78,1
+103,Riverside Cafe,Moroccan,Expensive,Chelsea,07:00-15:00,4.48,0
+104,Blueberry Hill Pancake House,Chinese,Cheap,Long Island City,14:00-22:00,3.37,0
+105,Spice Market Buffet,Vietnamese,Medium,Park Slope,10:00-22:00,3.7,0
+106,Pasta Perfection,Russian,Expensive,Harlem,08:00-16:00,2.63,0
+107,Spice Market Buffet,French,Medium,Soho,13:00-21:00,4.68,1
+108,Riverside Bistro,Spanish,Medium,Lower East Side,10:00-22:00,4.82,1
+109,Spice Route Indian Cuisine,Indian,Medium,Long Island City,07:00-14:00,2.8,1
+110,Jasmine Thai Cuisine,Indian,Expensive,Bushwick,13:00-21:00,3.36,1
+111,Zen Fusion Sushi,American,Medium,Brooklyn Heights,09:00-17:00,4.17,1
+112,Driftwood Tavern,Moroccan,Expensive,Bushwick,09:00-17:00,3.51,0
+113,Picante Peppers Mexican,Greek,Cheap,Upper West Side,12:00-20:00,3.0,1
+114,Starlight Lounge,Brazilian,Medium,Upper West Side,06:00-14:00,2.77,0
+115,Bella Vista Bistro,Chinese,Cheap,Astoria,18:00-02:00,1.07,1
+116,Pepperwood Grill,American,Medium,Prospect Heights,16:00-00:00,1.55,1
+117,Fireside Tavern,Italian,Expensive,West Village,09:00-17:00,1.64,0
+118,Bella Napoli Pizzeria,Mediterranean,Expensive,West Village,11:00-19:00,4.84,0
+119,Bella Amore Ristorante,Vietnamese,Medium,Greenwich Village,06:00-14:00,3.1,1
+120,Paradise Palms Tiki Bar,Thai,Expensive,Financial District,18:00-02:00,2.0,0
+121,Spice of Life Indian Cuisine,Vietnamese,Expensive,Greenwich Village,18:00-02:00,1.52,1
+122,Harbor Lights Seafood,Moroccan,Medium,West Village,10:00-22:00,4.79,1
+123,Sunset Grill & Bar,Argentinian,Expensive,Hell's Kitchen,08:00-20:00,4.51,0
+124,Emerald Isle Eatery,Chinese,Expensive,Hell's Kitchen,09:00-17:00,2.6,1
+125,Terra Nova Tavern,American,Expensive,Bushwick,07:00-15:00,2.78,0
+126,Riverside Bistro,Korean,Cheap,Hell's Kitchen,07:00-15:00,3.54,1
+127,Bella Amore Ristorante,Greek,Cheap,East Village,09:00-21:00,1.98,0
+128,Ocean Blue Grill,Spanish,Cheap,West Village,07:00-14:00,2.28,0
+129,La Piazza Trattoria,Lebanese,Expensive,East Village,12:00-20:00,1.66,1
+130,Aztec Sun Mexican Grill,Argentinian,Cheap,Bushwick,09:00-17:00,3.77,1
+131,Moonlight Cafe,Spanish,Cheap,Upper East Side,17:00-01:00,4.67,1
+132,Mango Madness Tropical,Japanese,Medium,Chelsea,13:00-21:00,2.78,0
+133,Peking Palace Chinese,Brazilian,Cheap,Lower East Side,09:00-17:00,3.19,0
+134,Green Leaf Salad Bar,Turkish,Expensive,Williamsburg,08:00-16:00,4.57,0
+135,Fire & Ice Grill,Italian,Cheap,Park Slope,07:00-14:00,1.49,1
+136,Green Leaf Salad Bar,Italian,Cheap,Williamsburg,07:00-14:00,1.2,1
+137,The Spicy Spoon,Japanese,Expensive,Brooklyn Heights,09:00-17:00,4.97,0
+138,Bella Amore Ristorante,Vietnamese,Medium,Astoria,12:00-20:00,2.22,0
+139,Fusion Flavors Kitchen,Korean,Cheap,Astoria,12:00-00:00,3.09,0
+140,Fusion Flavors Kitchen,Argentinian,Expensive,Soho,12:00-20:00,1.89,1
+141,Blue Horizon Seafood,Russian,Cheap,Midtown,07:00-14:00,4.36,1
+142,Ocean Blue Grill,Russian,Expensive,Upper East Side,12:00-00:00,1.9,1
+143,Bella Terra Bistro,Japanese,Cheap,Williamsburg,07:00-15:00,2.02,0
+144,Tiki Hut Grill & Bar,Brazilian,Expensive,Tribeca,17:00-01:00,2.84,0
+145,Pepper Pot Cafe,Thai,Expensive,Park Slope,10:00-22:00,1.08,0
+146,Black Forest Bistro,Moroccan,Medium,Midtown,11:00-23:00,2.63,0
+147,Harborview Cafe,Mexican,Medium,Williamsburg,10:00-18:00,1.35,1
+148,Pepper Pot Cafe,American,Expensive,Brooklyn Heights,13:00-21:00,1.94,0
+149,Terra Nova Tavern,Japanese,Cheap,Tribeca,09:00-21:00,2.44,0
+150,Pepper Pot Cafe,Moroccan,Expensive,Williamsburg,10:00-18:00,1.31,0
+151,Paradise Palms Tiki Bar,French,Cheap,Tribeca,07:00-15:00,3.0,1
+152,Royal Oak Tavern,Lebanese,Expensive,Soho,15:00-23:00,2.5,0
+153,Mango Madness Tropical,Vietnamese,Medium,Upper West Side,16:00-00:00,4.61,1
+154,Pepperoni Palace Pizzeria,Vietnamese,Medium,Long Island City,11:00-23:00,3.58,1
+155,Ocean Blue Grill,Vietnamese,Medium,Tribeca,15:00-23:00,1.81,1
+156,Ocean Blue Grill,Moroccan,Expensive,Harlem,13:00-21:00,1.09,0
+157,Harborview Cafe,Thai,Cheap,East Village,16:00-00:00,4.39,1
+158,Starlight Lounge,French,Medium,Park Slope,18:00-02:00,2.07,0
+159,Peking Palace Chinese,Mexican,Expensive,East Village,10:00-22:00,4.89,1
+160,Rustic Roots Cafe,French,Cheap,Bushwick,18:00-02:00,4.5,0
+161,Casa del Sol,Thai,Medium,Astoria,12:00-20:00,3.63,0
+162,Rustic Roots Cafe,Mexican,Expensive,Long Island City,16:00-00:00,1.79,0
+163,Bella Terra Bistro,Moroccan,Expensive,Harlem,08:00-20:00,1.87,1
+164,Casa del Sol,Turkish,Medium,Harlem,08:00-20:00,2.16,1
+165,Sunset Strip Steakhouse,Spanish,Expensive,Williamsburg,13:00-21:00,3.26,1
+166,Oceanfront Oyster Bar,American,Cheap,Chelsea,06:00-14:00,3.5,1
+167,Black Forest Bistro,Ethiopian,Expensive,Bushwick,07:00-17:00,2.36,0
+168,Red Lantern Chinese,Ethiopian,Expensive,Hell's Kitchen,10:00-22:00,1.09,1
+169,Casa del Sol,Chinese,Expensive,West Village,16:00-00:00,4.37,1
+170,Picante Peppers Mexican,Ethiopian,Medium,Harlem,10:00-18:00,4.19,0
+171,Black Forest Bistro,Ethiopian,Medium,West Village,06:00-14:00,3.7,1
+172,Sunset Grill & Bar,American,Cheap,Brooklyn Heights,07:00-15:00,1.96,0
+173,Paradise Cove Cafe,Chinese,Cheap,Financial District,12:00-00:00,3.12,1
+174,Orchard View Bistro,Moroccan,Cheap,Soho,09:00-21:00,2.77,0
+175,Bamboo Garden Restaurant,Korean,Cheap,Upper East Side,18:00-02:00,1.02,0
+176,Ocean Blue Grill,Brazilian,Expensive,Upper West Side,07:00-15:00,4.88,1
+177,Sunset Strip Steakhouse,Spanish,Expensive,Tribeca,08:00-20:00,1.03,1
+178,Island Oasis Cafe,Argentinian,Expensive,Financial District,12:00-00:00,2.27,0
+179,Mango Tango Bistro,Russian,Expensive,Midtown,08:00-16:00,2.09,1
+180,Blueberry Hill Pancake House,Lebanese,Expensive,Tribeca,12:00-00:00,1.86,1
+181,Zen Fusion Sushi,American,Medium,Tribeca,12:00-00:00,2.37,1
+182,Island Oasis Cafe,American,Medium,Bushwick,14:00-22:00,4.26,0
+183,Orchard View Bistro,Turkish,Expensive,Hell's Kitchen,17:00-01:00,3.21,1
+184,Green Garden Kitchen,Mexican,Expensive,Hell's Kitchen,16:00-00:00,3.1,1
+185,Ocean Blue Grill,Greek,Cheap,Hell's Kitchen,11:00-19:00,4.73,0
+186,The Spicy Spoon,Mediterranean,Cheap,Midtown,06:00-14:00,1.11,0
+187,Emerald Isle Eatery,Italian,Medium,Upper West Side,12:00-20:00,4.86,0
+188,Oasis Mediterranean,Mexican,Medium,Tribeca,07:00-17:00,2.12,1
+189,Morning Mist Cafe,American,Medium,Tribeca,14:00-22:00,2.41,0
+190,Mountain View Cafe,Chinese,Expensive,Soho,17:00-01:00,3.41,1
+191,Fireside Tavern,French,Expensive,Park Slope,14:00-22:00,1.71,1
+192,Blue Horizon Seafood,Chinese,Medium,Bushwick,11:00-19:00,4.38,1
+193,Coastal Catch Seafood,Argentinian,Medium,Midtown,10:00-22:00,3.14,1
+194,Moonlight Cafe,Korean,Cheap,Midtown,10:00-22:00,2.6,0
+195,Bluebird Cafe,Brazilian,Medium,Financial District,06:00-14:00,3.18,0
+196,Island Oasis Cafe,Korean,Cheap,Astoria,14:00-22:00,2.1,0
+197,Blue Horizon Seafood,Lebanese,Cheap,Williamsburg,10:00-22:00,1.85,1
+198,Harvest Moon Cafe,Chinese,Cheap,East Village,18:00-02:00,4.66,0
+199,Morning Mist Cafe,Russian,Medium,Tribeca,17:00-01:00,2.89,0
+200,Bella Napoli Pizzeria,Mediterranean,Expensive,Chelsea,07:00-17:00,2.81,1
+201,Bella Vita Ristorante,Vietnamese,Medium,Upper East Side,18:00-02:00,3.35,1
+202,Lotus Blossom Chinese,Argentinian,Expensive,Prospect Heights,07:00-14:00,4.43,0
+203,Morning Mist Cafe,Indian,Expensive,Lower East Side,07:00-17:00,3.06,1
+204,Zenith Zen Sushi,Indian,Expensive,Soho,11:00-19:00,3.35,0
+205,Terra Nova Tavern,Mexican,Expensive,Financial District,17:00-01:00,3.56,1
+206,Sunset Grill & Bar,Ethiopian,Expensive,Chelsea,09:00-17:00,1.2,1
+207,Casa Verde Taqueria,American,Expensive,West Village,11:00-23:00,3.31,0
+208,Starlight Lounge,French,Cheap,Hell's Kitchen,09:00-21:00,1.9,1
+209,Casa del Sol,Turkish,Expensive,Chelsea,17:00-01:00,4.2,1
+210,Peking Palace Chinese,Russian,Medium,Upper West Side,17:00-01:00,1.49,0
+211,Cafe Luna Rossa,Japanese,Medium,Upper East Side,10:00-18:00,1.97,0
+212,Cafe Luna Rossa,French,Cheap,Williamsburg,08:00-20:00,4.06,0
+213,Savory Spice Kitchen,Brazilian,Cheap,Bushwick,09:00-17:00,3.12,0
+214,Mango Tango Bistro,Mediterranean,Medium,Astoria,09:00-17:00,4.47,0
+215,Casa del Sol,Greek,Medium,Harlem,11:00-23:00,4.7,0
+216,Peking Palace Chinese,Greek,Medium,Brooklyn Heights,10:00-18:00,1.01,0
+217,Spice of Life Indian Cuisine,Turkish,Expensive,Upper East Side,13:00-21:00,3.24,1
+218,Bella Amore Ristorante,Japanese,Cheap,Williamsburg,11:00-19:00,4.81,1
+219,Mountain View Cafe,Vietnamese,Cheap,Park Slope,18:00-02:00,2.87,1
+220,Riverside Bistro,French,Cheap,Greenwich Village,11:00-23:00,3.37,0
+221,Zen Garden Sushi Bar,Turkish,Cheap,Upper West Side,07:00-15:00,3.95,0
+222,Driftwood Tavern,Turkish,Medium,West Village,08:00-16:00,4.67,0
+223,Green Leaf Salad Bar,French,Expensive,Chelsea,07:00-14:00,2.88,0
+224,Wildflower Cafe,Russian,Cheap,Chelsea,08:00-16:00,4.89,0
+225,Peking Palace Chinese,Spanish,Medium,Lower East Side,12:00-00:00,4.39,1
+226,Bella Vita Ristorante,Russian,Cheap,Park Slope,12:00-20:00,1.58,0
+227,Fusion Flavors Kitchen,Turkish,Medium,Astoria,12:00-20:00,4.96,0
+228,Thai Orchid Garden,Mediterranean,Medium,Hell's Kitchen,11:00-19:00,3.94,1
+229,Bamboo Grove Bistro,Argentinian,Expensive,Prospect Heights,09:00-17:00,4.4,0
+230,Pepperoni Palace Pizzeria,Chinese,Medium,Brooklyn Heights,08:00-16:00,4.11,0
+231,Bella Vista Bistro,Chinese,Medium,Astoria,11:00-19:00,3.36,0
+232,Terra Nova Tavern,Turkish,Medium,Brooklyn Heights,14:00-22:00,4.7,1
+233,Harborview Cafe,Lebanese,Medium,Long Island City,18:00-02:00,1.82,1
+234,Tropical Taste Kitchen,Chinese,Medium,Upper West Side,13:00-21:00,1.01,1
+235,Seaside Grill & Bar,Spanish,Expensive,Upper West Side,11:00-19:00,2.24,1
+236,Casa del Sol,Lebanese,Expensive,Soho,12:00-20:00,4.08,1
+237,Riverside Cafe,Moroccan,Medium,Prospect Heights,07:00-14:00,1.39,0
+238,Moonlit Oasis Lounge,Russian,Cheap,West Village,18:00-02:00,3.35,1
+239,Redwood Smokehouse,Chinese,Cheap,Chelsea,09:00-17:00,1.38,1
+240,Ocean Blue Grill,Brazilian,Expensive,Hell's Kitchen,08:00-20:00,3.71,0
+241,Moonlight Cafe,Russian,Expensive,Williamsburg,06:00-14:00,2.22,0
+242,Black Forest Bistro,Moroccan,Medium,Prospect Heights,18:00-02:00,4.49,1
+243,Terra Nova Tavern,Lebanese,Expensive,Financial District,13:00-21:00,4.29,1
+244,Harvest Moon Cafe,Mediterranean,Cheap,Harlem,12:00-20:00,3.86,0
+245,Tandoori Delights,Indian,Cheap,Upper East Side,16:00-00:00,4.38,0
+246,Mango Madness Tropical,Lebanese,Expensive,Financial District,10:00-18:00,2.56,0
+247,Terra Nova Tavern,Thai,Medium,West Village,11:00-23:00,2.29,0
+248,Peking Palace Chinese,Argentinian,Expensive,Financial District,15:00-23:00,3.35,0
+249,Pacific Pearl Oyster Bar,Mexican,Medium,Financial District,09:00-21:00,3.79,0
+250,Zen Fusion Sushi,Japanese,Medium,Park Slope,18:00-02:00,4.67,1
+251,Firefly Lounge,American,Medium,Hell's Kitchen,09:00-17:00,3.92,1
+252,Spice of Life Indian Cuisine,Greek,Medium,Park Slope,17:00-01:00,2.62,1
+253,Mango Madness Tropical,Greek,Cheap,Greenwich Village,10:00-22:00,2.4,1
+254,Moonlit Oasis Lounge,Moroccan,Medium,East Village,08:00-16:00,3.5,1
+255,Harbor Lights Seafood,Brazilian,Medium,Soho,08:00-20:00,2.24,1
+256,Harvest Moon Cafe,Italian,Cheap,Prospect Heights,18:00-02:00,4.45,1
+257,Mango Tango Bistro,Korean,Expensive,Upper West Side,13:00-21:00,4.49,0
+258,Casa Verde Taqueria,Spanish,Expensive,Financial District,09:00-17:00,2.5,0
+259,Pepperoni Palace Pizzeria,French,Medium,Chelsea,14:00-22:00,1.8,0
+260,Black Forest Bistro,Chinese,Medium,Soho,09:00-21:00,3.79,0
+261,Spice Market Buffet,Spanish,Expensive,Greenwich Village,10:00-18:00,1.23,0
+262,Paradise Cove Cafe,Turkish,Medium,Long Island City,12:00-20:00,2.12,1
+263,Jasmine Thai Cuisine,Chinese,Medium,Upper West Side,16:00-00:00,2.33,0
+264,Orchard View Bistro,Japanese,Expensive,Upper East Side,07:00-17:00,2.97,1
+265,Tropical Taste Kitchen,Brazilian,Expensive,Hell's Kitchen,17:00-01:00,3.86,1
+266,Jasmine Thai Cuisine,Italian,Medium,Hell's Kitchen,15:00-23:00,3.01,1
+267,Fusion Flavors Kitchen,Thai,Expensive,West Village,12:00-00:00,4.09,0
+268,Moonlit Oasis Lounge,American,Medium,Harlem,18:00-02:00,1.58,0
+269,Blue Ribbon BBQ,Chinese,Medium,Williamsburg,11:00-19:00,3.8,0
+270,Lakeside Bistro,Mexican,Expensive,Lower East Side,11:00-19:00,3.24,1
+271,Sunset Grill & Bar,Thai,Cheap,Brooklyn Heights,14:00-22:00,4.9,1
+272,Coastal Catch Seafood,Indian,Cheap,Williamsburg,07:00-17:00,1.07,0
+273,The Spicy Spoon,Moroccan,Cheap,Hell's Kitchen,15:00-23:00,2.5,1
+274,Sunshine Cafe & Bakery,American,Medium,Chelsea,11:00-23:00,3.61,0
+275,Orchard View Bistro,American,Medium,Soho,08:00-20:00,1.55,0
+276,Ocean Blue Grill,Chinese,Medium,Prospect Heights,16:00-00:00,2.28,0
+277,Mountain View Cafe,Mediterranean,Medium,Midtown,09:00-17:00,2.11,0
+278,Bella Luna Trattoria,Brazilian,Expensive,Soho,07:00-15:00,1.77,1
+279,Lakeside Bistro,Indian,Cheap,Prospect Heights,08:00-20:00,1.74,0
+280,Peking Palace Chinese,Mediterranean,Expensive,Financial District,16:00-00:00,2.51,0
+281,Redwood Smokehouse,Vietnamese,Cheap,Financial District,12:00-00:00,2.75,0
+282,Red Pepper Asian Fusion,Moroccan,Cheap,Lower East Side,07:00-15:00,1.69,1
+283,Morning Mist Cafe,Russian,Medium,Long Island City,10:00-22:00,2.27,1
+284,Bella Napoli Pizzeria,Vietnamese,Cheap,Upper East Side,16:00-00:00,1.29,0
+285,Tokyo Fusion Sushi,American,Cheap,Soho,08:00-20:00,1.72,1
+286,Terra Nova Tavern,Turkish,Expensive,East Village,08:00-20:00,3.14,0
+287,La Piazza Trattoria,Vietnamese,Expensive,Brooklyn Heights,07:00-17:00,2.54,0
+288,Golden Gate Diner,American,Cheap,Bushwick,07:00-17:00,1.26,0
+289,Bella Luna Trattoria,Chinese,Medium,Upper West Side,06:00-14:00,3.73,0
+290,Paradise Palms Tiki Bar,Lebanese,Medium,Prospect Heights,11:00-19:00,1.26,1
+291,Tokyo Fusion Sushi,Lebanese,Expensive,Financial District,08:00-20:00,4.56,0
+292,Piccolo Pizzeria,Indian,Expensive,East Village,17:00-01:00,3.11,1
+293,Oasis Mediterranean,Mexican,Expensive,Prospect Heights,07:00-17:00,1.32,0
+294,Casa Verde Taqueria,Korean,Medium,Astoria,06:00-14:00,2.15,1
+295,Fireside Fare,Chinese,Cheap,Williamsburg,17:00-01:00,3.96,1
+296,Mango Madness Tropical,Japanese,Expensive,Midtown,12:00-20:00,1.39,1
+297,Fiesta Mexicana,Indian,Medium,Long Island City,18:00-02:00,1.43,1
+298,Paradise Palms Tiki Bar,Japanese,Medium,Tribeca,08:00-20:00,3.41,1
+299,Bamboo Garden Restaurant,Mediterranean,Medium,Astoria,16:00-00:00,2.53,0
+300,Black Forest Bistro,Chinese,Cheap,East Village,15:00-23:00,1.82,0
+301,Seaside Grill & Bar,Brazilian,Cheap,East Village,08:00-20:00,3.4,1
+302,Oasis Mediterranean,Japanese,Expensive,West Village,17:00-01:00,1.84,0
+303,Red Pepper Asian Fusion,French,Medium,Williamsburg,10:00-18:00,1.69,1
+304,Bamboo Breeze Bistro,Korean,Expensive,Upper East Side,11:00-23:00,1.98,1
+305,Fireside Fare,Moroccan,Expensive,Upper West Side,11:00-19:00,3.22,1
+306,Lotus Blossom Chinese,Greek,Medium,Upper West Side,06:00-14:00,1.78,1
+307,Green Leaf Salad Bar,American,Medium,Prospect Heights,11:00-23:00,2.96,0
+308,Firefly Lounge,Vietnamese,Cheap,Lower East Side,10:00-22:00,1.6,1
+309,Royal Oak Tavern,Brazilian,Cheap,Midtown,12:00-00:00,1.42,0
+310,Moonlight Serenade Lounge,Vietnamese,Expensive,Prospect Heights,12:00-20:00,2.47,1
+311,Bella Luna Trattoria,Ethiopian,Cheap,Prospect Heights,10:00-22:00,3.71,0
+312,Harvest Table Cafe,Spanish,Cheap,Greenwich Village,18:00-02:00,2.01,0
+313,Bella Terra Bistro,French,Medium,Greenwich Village,14:00-22:00,3.14,0
+314,Bella Vita Ristorante,Vietnamese,Cheap,Greenwich Village,10:00-18:00,2.45,1
+315,Spice Island Grill,Mediterranean,Cheap,Upper West Side,07:00-15:00,1.62,1
+316,Spice Market Buffet,Lebanese,Expensive,Hell's Kitchen,14:00-22:00,4.1,1
+317,Bella Vita Ristorante,Lebanese,Cheap,Upper West Side,08:00-16:00,4.68,1
+318,Spice of Life Indian Cuisine,Thai,Cheap,Prospect Heights,16:00-00:00,3.87,0
+319,Bella Vista Bistro,Ethiopian,Expensive,Williamsburg,14:00-22:00,2.61,0
+320,Spice World,Argentinian,Medium,Upper West Side,11:00-19:00,3.95,1
+321,Golden Harvest Diner,Spanish,Expensive,Midtown,10:00-18:00,4.9,1
+322,Paradise Palms Tiki Bar,Mediterranean,Expensive,Greenwich Village,10:00-22:00,3.36,0
+323,Island Oasis Cafe,Moroccan,Cheap,Greenwich Village,07:00-17:00,3.68,1
+324,Moonlight Serenade Lounge,Thai,Cheap,Hell's Kitchen,15:00-23:00,3.67,0
+325,Paradise Cove Cafe,Ethiopian,Expensive,Soho,09:00-21:00,3.41,0
+326,Lotus Blossom Chinese,Chinese,Medium,Chelsea,12:00-20:00,2.02,1
+327,Island Oasis Cafe,Argentinian,Medium,Upper East Side,10:00-22:00,2.46,0
+328,Harborview Cafe,Chinese,Expensive,East Village,16:00-00:00,1.14,1
+329,Fireside Fare,Indian,Cheap,Tribeca,09:00-17:00,4.68,0
+330,Casa Verde Taqueria,Mexican,Expensive,Williamsburg,09:00-21:00,1.98,1
+331,Peking Palace Chinese,Thai,Cheap,Tribeca,12:00-20:00,3.38,1
+332,Bamboo Garden Restaurant,Mexican,Expensive,Prospect Heights,10:00-18:00,2.72,1
+333,Moonlit Oasis Lounge,French,Cheap,Midtown,18:00-02:00,4.47,0
+334,Emerald Isle Eatery,Greek,Cheap,East Village,15:00-23:00,3.72,0
+335,Spice World,Mexican,Medium,Harlem,16:00-00:00,1.2,0
+336,Harborview Cafe,Italian,Medium,Lower East Side,12:00-20:00,4.43,0
+337,Driftwood Tavern,Turkish,Expensive,West Village,09:00-17:00,4.19,1
+338,Orchard View Bistro,American,Medium,Greenwich Village,11:00-23:00,3.61,1
+339,Peking Palace Chinese,Spanish,Cheap,Greenwich Village,10:00-22:00,3.56,0
+340,Paradise Palms Tiki Bar,French,Cheap,Harlem,12:00-20:00,3.08,1
+341,Sunshine Cafe & Bakery,Mediterranean,Cheap,Greenwich Village,09:00-21:00,2.48,0
+342,Pepperoni Palace Pizzeria,American,Expensive,Harlem,09:00-21:00,4.56,0
+343,Casa de Campo,Vietnamese,Medium,East Village,07:00-15:00,4.98,0
+344,Red Pepper Asian Fusion,Lebanese,Expensive,Bushwick,15:00-23:00,2.36,0
+345,Oceanfront Oyster Bar,Brazilian,Medium,Upper East Side,13:00-21:00,4.37,1
+346,Riverside Bistro,Korean,Cheap,Upper West Side,16:00-00:00,4.02,1
+347,Green Leaf Salad Bar,Moroccan,Expensive,Tribeca,17:00-01:00,1.81,0
+348,Bella Vita Ristorante,Spanish,Medium,West Village,12:00-00:00,2.0,1
+349,La Piazza Trattoria,Lebanese,Medium,West Village,07:00-17:00,1.58,1
+350,Tropical Taste Kitchen,Russian,Expensive,Chelsea,11:00-19:00,1.15,1
+351,Bluewater Grill & Bar,Indian,Medium,Park Slope,17:00-01:00,3.39,1
+352,Bamboo Grove Bistro,French,Medium,Bushwick,09:00-17:00,1.51,0
+353,Jasmine Thai Cuisine,Greek,Expensive,Upper East Side,11:00-23:00,3.18,0
+354,Harvest Moon Cafe,Russian,Cheap,Hell's Kitchen,12:00-00:00,2.17,0
+355,Olive Branch Grill,Korean,Expensive,Bushwick,07:00-14:00,1.5,0
+356,Pepper Pot Cafe,Russian,Medium,Tribeca,16:00-00:00,3.41,0
+357,Bluewater Grill & Bar,Italian,Expensive,Lower East Side,18:00-02:00,3.96,0
+358,Riverside Cafe,Italian,Cheap,Midtown,18:00-02:00,4.67,1
+359,Savory Spice Kitchen,Italian,Medium,Williamsburg,17:00-01:00,3.25,0
+360,Harvest Moon Cafe,Korean,Cheap,Williamsburg,10:00-18:00,4.01,1
+361,Royal Oak Tavern,Argentinian,Expensive,Tribeca,10:00-18:00,1.38,1
+362,Casa de Campo,Turkish,Cheap,East Village,12:00-00:00,1.9,0
+363,Spice World,French,Cheap,Brooklyn Heights,12:00-00:00,1.41,1
+364,Lakeside Bistro,Brazilian,Medium,Financial District,16:00-00:00,2.31,0
+365,Bluebird Cafe,Moroccan,Expensive,Midtown,06:00-14:00,3.57,0
+366,Mango Tango Bistro,Thai,Cheap,Midtown,08:00-20:00,4.39,1
+367,Fusion Flavors Kitchen,Russian,Medium,Midtown,12:00-00:00,4.97,0
+368,Pepperwood Grill,Italian,Cheap,Chelsea,08:00-20:00,3.72,1
+369,Spice World,Lebanese,Expensive,Bushwick,08:00-16:00,1.64,1
+370,Harborview Cafe,Chinese,Medium,Park Slope,09:00-17:00,3.28,1
+371,Green Garden Kitchen,Lebanese,Expensive,Williamsburg,10:00-18:00,3.35,0
+372,Garden of Eatin',Argentinian,Medium,Park Slope,11:00-19:00,3.28,0
+373,Bella Terra Bistro,Greek,Expensive,Harlem,14:00-22:00,3.55,1
+374,Moonlight Cafe,Italian,Expensive,Upper West Side,08:00-16:00,2.71,0
+375,Pepperoni Palace Pizzeria,French,Medium,Brooklyn Heights,07:00-14:00,3.29,1
+376,Tiki Hut Grill & Bar,French,Cheap,Greenwich Village,07:00-15:00,4.81,0
+377,Terra Nova Tavern,Indian,Cheap,Upper East Side,12:00-20:00,2.87,0
+378,Fireside Fare,Turkish,Expensive,Bushwick,11:00-19:00,3.32,0
+379,Sunset Grill & Bar,Mexican,Expensive,Park Slope,11:00-23:00,2.02,1
+380,Pepperwood Grill,Turkish,Cheap,Hell's Kitchen,17:00-01:00,3.89,1
+381,The Spicy Spoon,French,Medium,Upper East Side,11:00-19:00,2.92,1
+382,Oasis Mediterranean,Moroccan,Medium,Midtown,08:00-20:00,4.7,0
+383,Starlight Lounge,Thai,Cheap,Upper East Side,18:00-02:00,2.14,1
+384,Zen Garden Sushi Bar,Indian,Cheap,Long Island City,17:00-01:00,3.23,1
+385,Garden of Eatin',Chinese,Medium,Tribeca,17:00-01:00,1.51,0
+386,Harvest Table Cafe,Mediterranean,Medium,West Village,12:00-20:00,1.66,0
+387,Fiesta Mexicana,Japanese,Cheap,Upper East Side,08:00-20:00,1.15,1
+388,Spice Route Indian Cuisine,Moroccan,Expensive,Lower East Side,15:00-23:00,4.74,1
+389,Green Garden Kitchen,American,Cheap,Midtown,12:00-00:00,3.32,1
+390,Jasmine Thai Cuisine,Argentinian,Cheap,Bushwick,15:00-23:00,3.04,1
+391,Bella Vita Ristorante,Greek,Cheap,Financial District,08:00-20:00,1.95,0
+392,Bella Luna Trattoria,Argentinian,Cheap,Brooklyn Heights,10:00-22:00,4.03,0
+393,Green Leaf Salad Bar,Lebanese,Cheap,West Village,12:00-20:00,3.67,1
+394,Coconut Cove Caribbean,Italian,Cheap,Greenwich Village,07:00-17:00,2.38,1
+395,Fireside Tavern,Ethiopian,Medium,Prospect Heights,15:00-23:00,1.66,0
+396,Lakeside Bistro,Russian,Medium,Financial District,08:00-16:00,3.17,0
+397,Tandoori Delights,Vietnamese,Medium,Williamsburg,10:00-18:00,3.11,0
+398,Harvest Table Cafe,Italian,Medium,Astoria,08:00-16:00,1.83,1
+399,Lakeside Bistro,Italian,Cheap,Midtown,14:00-22:00,4.51,1
+400,Casa del Sol,Vietnamese,Expensive,Hell's Kitchen,07:00-15:00,1.18,1
+401,Harvest Table Cafe,French,Cheap,Astoria,08:00-16:00,3.59,1
+402,Casa de Campo,Japanese,Cheap,Tribeca,07:00-15:00,4.17,0
+403,Moonlight Cafe,Moroccan,Medium,Williamsburg,09:00-17:00,4.85,1
+404,Bella Terra Bistro,Moroccan,Expensive,Soho,11:00-19:00,4.7,1
+405,Oceanview Grill,Mediterranean,Medium,Financial District,11:00-19:00,4.71,0
+406,Thai Orchid Garden,Japanese,Expensive,Upper East Side,16:00-00:00,3.46,0
+407,The Spicy Spoon,Turkish,Cheap,Upper West Side,17:00-01:00,2.71,1
+408,Oasis Mediterranean,Russian,Medium,Prospect Heights,17:00-01:00,3.28,1
+409,Bamboo Grove Bistro,Thai,Medium,Harlem,12:00-00:00,1.24,1
+410,Pepperoni Palace Pizzeria,Russian,Expensive,Tribeca,14:00-22:00,3.0,0
+411,Ocean Blue Grill,Mexican,Medium,Prospect Heights,12:00-20:00,3.58,0
+412,Tandoori Delights,Italian,Cheap,Bushwick,16:00-00:00,4.68,1
+413,Fire & Ice Grill,Ethiopian,Expensive,East Village,10:00-22:00,4.15,0
+414,Sunrise Diner,Italian,Medium,Long Island City,11:00-23:00,3.8,0
+415,Bamboo Garden Restaurant,Argentinian,Cheap,Tribeca,10:00-18:00,3.14,1
+416,Riverside Cafe,Mexican,Expensive,Hell's Kitchen,06:00-14:00,4.28,1
+417,Red Pepper Asian Fusion,Indian,Medium,East Village,08:00-20:00,4.07,1
+418,Mango Madness Tropical,Ethiopian,Medium,Chelsea,16:00-00:00,2.51,1
+419,Bella Vita Ristorante,Indian,Expensive,Tribeca,18:00-02:00,2.22,1
+420,Aztec Sun Mexican Grill,French,Medium,East Village,07:00-14:00,4.0,1
+421,Picante Peppers Mexican,Spanish,Cheap,East Village,07:00-14:00,1.55,1
+422,Casa de Campo,Mexican,Medium,Bushwick,09:00-17:00,1.03,0
+423,Spice Market Buffet,Italian,Cheap,Chelsea,09:00-17:00,4.51,1
+424,Golden Harvest Diner,Brazilian,Expensive,Soho,12:00-00:00,2.29,0
+425,Tropical Taste Kitchen,Mexican,Medium,Long Island City,14:00-22:00,4.67,1
+426,Garden of Eatin',Ethiopian,Cheap,Bushwick,07:00-17:00,1.91,1
+427,The Spicy Spoon,Vietnamese,Expensive,Bushwick,15:00-23:00,3.7,1
+428,Red Lantern Chinese,Spanish,Expensive,West Village,07:00-15:00,1.58,0
+429,Casa Verde Taqueria,Brazilian,Expensive,Bushwick,09:00-21:00,3.68,0
+430,La Piazza Trattoria,Turkish,Expensive,Harlem,17:00-01:00,1.19,1
+431,Bella Terra Bistro,Japanese,Expensive,Hell's Kitchen,10:00-22:00,3.71,1
+432,Ocean Blue Grill,Argentinian,Expensive,Tribeca,06:00-14:00,2.06,1
+433,Harvest Table Cafe,Brazilian,Expensive,Harlem,09:00-17:00,1.27,1
+434,Spice of Life Indian Cuisine,Turkish,Expensive,West Village,11:00-19:00,2.26,0
+435,Harbor Lights Seafood,Indian,Medium,West Village,11:00-19:00,2.97,1
+436,Island Oasis Cafe,Thai,Expensive,Harlem,09:00-21:00,1.04,1
+437,Peking Palace Chinese,Argentinian,Expensive,Long Island City,09:00-21:00,2.63,0
+438,Harvest Moon Cafe,Chinese,Medium,Brooklyn Heights,12:00-00:00,4.34,1
+439,Sunset Strip Steakhouse,Brazilian,Medium,Williamsburg,07:00-14:00,1.76,0
+440,Starlight Lounge,Argentinian,Medium,Upper East Side,15:00-23:00,3.95,0
+441,Casa Verde Taqueria,Lebanese,Medium,Hell's Kitchen,14:00-22:00,4.09,0
+442,Blue Ribbon BBQ,Ethiopian,Medium,Park Slope,09:00-17:00,2.85,0
+443,Bella Vita Ristorante,Vietnamese,Expensive,East Village,06:00-14:00,2.03,0
+444,Pepperwood Grill,Japanese,Cheap,Chelsea,10:00-18:00,3.56,0
+445,Seaside Grill & Bar,Brazilian,Medium,Harlem,07:00-17:00,4.8,0
+446,Morning Mist Cafe,Spanish,Medium,Williamsburg,17:00-01:00,4.57,1
+447,Red Lantern Chinese,Ethiopian,Medium,Bushwick,08:00-20:00,1.69,0
+448,Paradise Cove Cafe,Japanese,Cheap,Harlem,12:00-00:00,4.62,1
+449,Peking Palace Chinese,Vietnamese,Cheap,Brooklyn Heights,07:00-17:00,1.04,1
+450,Golden Gate Diner,French,Cheap,East Village,12:00-00:00,2.78,1
+451,Fiesta Mexicana,Thai,Medium,Brooklyn Heights,08:00-16:00,1.19,1
+452,Moonlight Cafe,Turkish,Expensive,Park Slope,11:00-23:00,3.76,0
+453,Sunflower Cafe & Bakery,Mediterranean,Cheap,Harlem,07:00-15:00,1.31,0
+454,Bella Vista Bistro,Turkish,Cheap,Financial District,12:00-00:00,3.01,0
+455,Zen Fusion Sushi,Moroccan,Medium,Hell's Kitchen,13:00-21:00,1.92,0
+456,Zen Garden Sushi Bar,Turkish,Medium,Long Island City,10:00-18:00,1.11,0
+457,Thai Orchid Garden,Moroccan,Expensive,Soho,12:00-20:00,2.36,0
+458,Casa del Sol,Indian,Expensive,Chelsea,18:00-02:00,1.77,1
+459,Pepperwood Grill,Korean,Cheap,Financial District,12:00-20:00,2.1,0
+460,Zenith Zen Sushi,Italian,Expensive,West Village,08:00-20:00,2.04,0
+461,Golden Gate Diner,Moroccan,Medium,Long Island City,15:00-23:00,1.47,0
+462,Bella Napoli Pizzeria,Mexican,Medium,Brooklyn Heights,10:00-22:00,2.35,1
+463,Red Pepper Asian Fusion,Ethiopian,Cheap,Upper West Side,15:00-23:00,1.19,1
+464,Fireside Fare,Spanish,Medium,East Village,12:00-20:00,2.5,1
+465,Pasta Perfection,Brazilian,Medium,Bushwick,13:00-21:00,1.0,1
+466,Fireside Fare,Spanish,Expensive,Upper East Side,10:00-18:00,1.92,1
+467,Spice Island Grill,Vietnamese,Cheap,Financial District,13:00-21:00,1.74,1
+468,Aztec Sun Mexican Grill,Ethiopian,Cheap,Chelsea,11:00-19:00,1.39,1
+469,Black Forest Bistro,Indian,Cheap,West Village,13:00-21:00,1.3,0
+470,La Piazza Trattoria,Vietnamese,Medium,Upper West Side,12:00-00:00,3.79,1
+471,The Spicy Spoon,Lebanese,Cheap,Tribeca,12:00-00:00,1.04,1
+472,Moonlit Oasis Lounge,Argentinian,Medium,Greenwich Village,14:00-22:00,3.21,0
+473,Tiki Hut Grill & Bar,Mediterranean,Medium,Soho,11:00-23:00,3.38,1
+474,Tropical Taste Kitchen,Moroccan,Cheap,Greenwich Village,07:00-15:00,1.56,0
+475,Bamboo Garden Restaurant,Spanish,Cheap,West Village,15:00-23:00,3.0,1
+476,Harbor Lights Seafood,Indian,Expensive,Brooklyn Heights,18:00-02:00,1.62,1
+477,Royal Oak Tavern,French,Expensive,Greenwich Village,13:00-21:00,4.64,1
+478,Island Oasis Cafe,Lebanese,Expensive,Financial District,12:00-00:00,1.36,1
+479,Black Forest Bistro,Japanese,Medium,Harlem,09:00-21:00,1.13,0
+480,Royal Oak Tavern,Thai,Cheap,Long Island City,06:00-14:00,1.33,1
+481,Tandoori Delights,Moroccan,Medium,Midtown,15:00-23:00,4.84,0
+482,Piccolo Pizzeria,Ethiopian,Cheap,Chelsea,08:00-16:00,1.15,0
+483,Green Leaf Salad Bar,Korean,Expensive,Financial District,13:00-21:00,3.29,1
+484,Riverside Cafe,Argentinian,Medium,Tribeca,08:00-16:00,4.92,0
+485,Cafe Luna Rossa,Lebanese,Medium,Prospect Heights,12:00-00:00,4.92,1
+486,Zen Garden Sushi Bar,Korean,Medium,Upper East Side,12:00-20:00,4.92,0
+487,Fireside Fare,Spanish,Expensive,Lower East Side,15:00-23:00,1.86,0
+488,Spice Island Grill,Brazilian,Expensive,Greenwich Village,12:00-00:00,2.05,0
+489,Cafe Luna Rossa,French,Cheap,Prospect Heights,07:00-17:00,4.35,1
+490,Orchard View Bistro,Lebanese,Cheap,East Village,08:00-16:00,1.06,1
+491,Paradise Cove Cafe,Ethiopian,Cheap,Midtown,14:00-22:00,1.81,1
+492,Sunflower Cafe & Bakery,French,Expensive,Greenwich Village,09:00-21:00,3.16,1
+493,Redwood Smokehouse,Turkish,Cheap,Williamsburg,13:00-21:00,2.82,0
+494,Zen Fusion Sushi,Lebanese,Expensive,Chelsea,12:00-00:00,3.03,1
+495,Pepper Pot Cafe,Indian,Medium,Prospect Heights,07:00-17:00,3.56,0
+496,Bella Napoli Pizzeria,Spanish,Medium,Financial District,12:00-20:00,1.41,0
+497,Pepperwood Grill,Greek,Expensive,Park Slope,10:00-18:00,3.64,0
+498,Bluebird Cafe,Moroccan,Medium,Harlem,12:00-20:00,1.94,0
+499,Bamboo Breeze Bistro,Brazilian,Cheap,East Village,09:00-17:00,1.1,1
+500,Riverwalk Cafe,Ethiopian,Expensive,Williamsburg,09:00-17:00,3.63,1
+501,Pepperoni Palace Pizzeria,Brazilian,Expensive,Astoria,11:00-19:00,3.79,0
+502,Tandoori Delights,Argentinian,Expensive,Upper West Side,09:00-17:00,3.14,0
+503,Bella Luna Trattoria,Chinese,Cheap,Long Island City,10:00-18:00,4.78,1
+504,Tropical Taste Kitchen,Chinese,Cheap,Greenwich Village,10:00-22:00,4.37,0
+505,Pepper Pot Cafe,Italian,Cheap,Greenwich Village,11:00-23:00,2.36,0
+506,Bamboo Garden Restaurant,Brazilian,Expensive,Bushwick,16:00-00:00,3.01,0
+507,Mango Tango Bistro,Chinese,Expensive,Financial District,10:00-18:00,1.75,0
+508,Firefly Lounge,Mexican,Expensive,Financial District,07:00-17:00,3.14,1
+509,Lotus Blossom Chinese,Japanese,Expensive,Midtown,13:00-21:00,1.32,0
+510,Blue Ribbon BBQ,Japanese,Medium,Hell's Kitchen,12:00-20:00,2.69,0
+511,Bluebird Cafe,Turkish,Cheap,Williamsburg,10:00-22:00,4.38,1
+512,Casa de Campo,Italian,Medium,Greenwich Village,09:00-21:00,1.1,0
+513,Bella Terra Bistro,Brazilian,Expensive,Tribeca,08:00-20:00,4.27,1
+514,Oasis Mediterranean,Mediterranean,Expensive,Upper East Side,08:00-16:00,3.35,1
+515,Zen Garden Sushi Bar,Japanese,Cheap,Greenwich Village,06:00-14:00,1.97,1
+516,Spice of Life Indian Cuisine,Russian,Cheap,Lower East Side,07:00-14:00,4.86,1
+517,Mountain View Cafe,Mexican,Expensive,Chelsea,13:00-21:00,2.4,0
+518,Oasis Mediterranean,Chinese,Medium,Astoria,09:00-17:00,1.39,1
+519,Green Garden Kitchen,Turkish,Expensive,Prospect Heights,15:00-23:00,2.31,0
+520,Bella Napoli Pizzeria,Moroccan,Cheap,Long Island City,07:00-14:00,3.14,1
+521,Paradise Cove Cafe,Russian,Medium,Upper East Side,08:00-16:00,1.01,1
+522,Red Pepper Asian Fusion,Russian,Expensive,Greenwich Village,13:00-21:00,1.27,1
+523,Fireside Tavern,Russian,Cheap,Long Island City,10:00-18:00,1.12,0
+524,Terra Nova Tavern,Lebanese,Cheap,Greenwich Village,11:00-23:00,2.42,0
+525,Blue Horizon Seafood,Greek,Medium,Long Island City,10:00-22:00,2.87,0
+526,Pepperoni Palace Pizzeria,Mexican,Medium,Financial District,10:00-22:00,2.09,1
+527,Pepperoni Palace Pizzeria,Moroccan,Medium,Harlem,14:00-22:00,4.05,0
+528,Piccolo Pizzeria,Spanish,Cheap,Long Island City,08:00-16:00,2.02,1
+529,Terra Nova Tavern,Ethiopian,Expensive,Hell's Kitchen,17:00-01:00,1.86,1
+530,Bella Terra Bistro,Thai,Medium,Prospect Heights,07:00-14:00,4.59,1
+531,Blue Horizon Seafood,Vietnamese,Expensive,Brooklyn Heights,12:00-00:00,4.47,1
+532,Emerald Isle Eatery,Korean,Medium,East Village,11:00-19:00,1.22,0
+533,Savory Spice Kitchen,Greek,Medium,Long Island City,15:00-23:00,3.73,1
+534,Bella Napoli Pizzeria,Vietnamese,Expensive,West Village,11:00-23:00,2.19,1
+535,Oceanfront Oyster Bar,Greek,Cheap,Financial District,07:00-17:00,4.06,0
+536,Piccolo Pizzeria,Thai,Cheap,East Village,06:00-14:00,3.85,1
+537,Green Garden Kitchen,Mediterranean,Cheap,Upper East Side,10:00-22:00,3.14,0
+538,Green Leaf Salad Bar,Greek,Medium,Park Slope,14:00-22:00,4.84,1
+539,Orchard View Bistro,Thai,Medium,Midtown,16:00-00:00,3.31,0
+540,Coconut Cove Caribbean,Brazilian,Cheap,Greenwich Village,10:00-18:00,1.35,0
+541,Lotus Blossom Chinese,Mexican,Medium,Lower East Side,18:00-02:00,4.1,0
+542,Coastal Catch Seafood,Greek,Medium,Bushwick,17:00-01:00,4.14,0
+543,Spice Market Buffet,Turkish,Medium,Upper West Side,10:00-18:00,4.87,0
+544,Bamboo Breeze Bistro,Moroccan,Medium,Upper East Side,16:00-00:00,4.04,0
+545,Rustic Roots Cafe,Korean,Cheap,Financial District,11:00-23:00,3.4,0
+546,Sunshine Cafe & Bakery,Italian,Cheap,Harlem,12:00-20:00,3.84,0
+547,Lotus Blossom Chinese,Turkish,Cheap,Harlem,12:00-00:00,2.59,0
+548,Firefly Lounge,Italian,Expensive,Hell's Kitchen,11:00-23:00,3.5,0
+549,La Piazza Trattoria,Korean,Expensive,Williamsburg,07:00-15:00,3.93,0
+550,Golden Gate Diner,French,Medium,Midtown,12:00-20:00,4.15,0
+551,Golden Gate Diner,Spanish,Cheap,Lower East Side,11:00-19:00,3.55,0
+552,Green Garden Kitchen,Japanese,Expensive,Greenwich Village,16:00-00:00,1.13,0
+553,Golden Harvest Diner,Chinese,Expensive,Park Slope,06:00-14:00,2.36,1
+554,Emerald Isle Eatery,Vietnamese,Expensive,Greenwich Village,11:00-19:00,2.65,1
+555,Bella Napoli Pizzeria,Turkish,Cheap,Tribeca,14:00-22:00,3.09,0
+556,Tiki Hut Grill & Bar,Brazilian,Expensive,Midtown,13:00-21:00,1.36,1
+557,Peking Palace Chinese,Russian,Expensive,Bushwick,11:00-19:00,3.98,1
+558,Casa de Campo,Indian,Medium,Financial District,14:00-22:00,1.18,0
+559,Bella Vita Ristorante,Chinese,Expensive,Harlem,14:00-22:00,1.41,0
+560,Oceanfront Oyster Bar,Brazilian,Medium,Long Island City,18:00-02:00,2.93,0
+561,Tandoori Delights,Greek,Expensive,West Village,10:00-22:00,3.28,1
+562,Green Garden Kitchen,Vietnamese,Cheap,Harlem,12:00-20:00,3.28,1
+563,Sunset Strip Steakhouse,American,Medium,Astoria,10:00-18:00,3.75,1
+564,Bella Vista Bistro,Mediterranean,Expensive,Williamsburg,06:00-14:00,3.68,1
+565,Lakeside Bistro,Mexican,Expensive,Park Slope,15:00-23:00,1.79,1
+566,Fire & Ice Grill,Korean,Cheap,Harlem,10:00-22:00,4.67,0
+567,Golden Harvest Diner,Argentinian,Cheap,Chelsea,07:00-17:00,2.24,1
+568,Pacific Pearl Oyster Bar,Moroccan,Medium,Harlem,10:00-22:00,4.52,0
+569,Red Lantern Chinese,Ethiopian,Medium,Prospect Heights,15:00-23:00,3.75,0
+570,Bluebird Cafe,Turkish,Medium,Long Island City,11:00-19:00,3.99,0
+571,Redwood Smokehouse,American,Medium,Upper East Side,12:00-20:00,2.84,0
+572,Sunrise Diner,Ethiopian,Cheap,Williamsburg,07:00-15:00,3.15,0
+573,Green Garden Kitchen,Russian,Expensive,Long Island City,10:00-22:00,3.98,1
+574,Peking Palace Chinese,Turkish,Medium,Financial District,09:00-17:00,4.19,1
+575,Peking Palace Chinese,Italian,Medium,Prospect Heights,09:00-21:00,4.51,0
+576,Sunset Grill & Bar,American,Expensive,Brooklyn Heights,07:00-14:00,4.02,1
+577,The Spicy Spoon,Turkish,Medium,Long Island City,17:00-01:00,4.5,0
+578,Cafe Luna Rossa,Korean,Expensive,Long Island City,12:00-20:00,2.64,0
+579,Tropical Taste Kitchen,Russian,Cheap,Williamsburg,12:00-00:00,4.88,0
+580,Island Oasis Cafe,Turkish,Cheap,Tribeca,11:00-19:00,4.26,1
+581,Spice Island Grill,Mexican,Expensive,Financial District,11:00-23:00,1.21,0
+582,Lakeside Bistro,Argentinian,Cheap,East Village,06:00-14:00,3.77,1
+583,Lotus Blossom Chinese,Japanese,Expensive,Williamsburg,07:00-15:00,2.46,1
+584,Spice Market Buffet,Italian,Expensive,Upper East Side,15:00-23:00,4.31,0
+585,Morning Mist Cafe,Spanish,Expensive,Soho,14:00-22:00,3.32,1
+586,Redwood Smokehouse,Spanish,Cheap,Greenwich Village,10:00-18:00,1.06,1
+587,Sizzling Salsa Cantina,Italian,Expensive,Lower East Side,16:00-00:00,1.69,1
+588,Zen Garden Sushi Bar,Brazilian,Cheap,Park Slope,11:00-19:00,2.87,1
+589,Bella Terra Bistro,Greek,Cheap,Astoria,07:00-14:00,4.75,1
+590,Morning Mist Cafe,Turkish,Medium,Soho,07:00-15:00,2.77,0
+591,Pepperwood Grill,Vietnamese,Expensive,West Village,09:00-21:00,2.34,0
+592,Driftwood Tavern,Greek,Medium,East Village,11:00-19:00,2.15,0
+593,Mango Tango Bistro,Chinese,Expensive,Bushwick,13:00-21:00,3.46,0
+594,Fireside Tavern,Japanese,Expensive,East Village,08:00-16:00,4.74,0
+595,Pepperwood Grill,Mediterranean,Expensive,Lower East Side,16:00-00:00,4.48,0
+596,Thai Orchid Garden,Vietnamese,Cheap,Park Slope,09:00-21:00,1.86,0
+597,Terra Nova Tavern,Japanese,Medium,Upper West Side,08:00-16:00,4.02,1
+598,Lotus Blossom Chinese,Brazilian,Cheap,Williamsburg,18:00-02:00,4.3,1
+599,Harbor Lights Seafood,Italian,Medium,Astoria,07:00-17:00,1.42,1
+600,Island Oasis Cafe,Indian,Expensive,Harlem,18:00-02:00,3.39,0
+601,Harvest Moon Cafe,Indian,Expensive,Upper West Side,11:00-19:00,4.46,0
+602,Casa Verde Taqueria,Moroccan,Medium,Bushwick,12:00-20:00,2.37,1
+603,Fiesta Mexicana,Lebanese,Cheap,Upper East Side,09:00-17:00,2.25,1
+604,Picante Peppers Mexican,Moroccan,Cheap,Astoria,16:00-00:00,4.87,1
+605,Sunshine Cafe & Bakery,Korean,Medium,Financial District,07:00-15:00,4.78,0
+606,Mango Madness Tropical,Mediterranean,Medium,East Village,12:00-20:00,4.27,1
+607,Paradise Cove Cafe,Chinese,Medium,Harlem,15:00-23:00,4.5,1
+608,Bamboo Garden Restaurant,Russian,Medium,Soho,10:00-22:00,3.41,0
+609,Moonlit Oasis Lounge,Mexican,Cheap,Greenwich Village,08:00-20:00,2.06,0
+610,Red Pepper Asian Fusion,Moroccan,Cheap,Midtown,12:00-20:00,4.41,1
+611,Peking Palace Chinese,Argentinian,Expensive,Prospect Heights,08:00-20:00,1.46,1
+612,Cafe Luna Rossa,Mediterranean,Expensive,Long Island City,14:00-22:00,3.8,0
+613,Tropical Taste Kitchen,Brazilian,Expensive,Soho,15:00-23:00,2.16,0
+614,Olive Branch Grill,Vietnamese,Medium,West Village,11:00-23:00,2.26,1
+615,The Spicy Spoon,French,Expensive,East Village,06:00-14:00,4.49,1
+616,Wildflower Cafe,Japanese,Cheap,Astoria,11:00-19:00,4.68,0
+617,Cafe Luna Rossa,Mediterranean,Cheap,Bushwick,17:00-01:00,4.19,1
+618,Moonlight Cafe,Japanese,Medium,Brooklyn Heights,09:00-17:00,4.33,1
+619,Fireside Tavern,Argentinian,Medium,Brooklyn Heights,06:00-14:00,2.28,1
+620,Tropical Taste Kitchen,Lebanese,Cheap,Long Island City,06:00-14:00,3.95,0
+621,Starlight Lounge,Brazilian,Expensive,Long Island City,11:00-23:00,4.57,0
+622,Tiki Hut Grill & Bar,Turkish,Expensive,Harlem,18:00-02:00,2.63,0
+623,Olive Branch Grill,Korean,Cheap,Tribeca,09:00-17:00,4.04,1
+624,La Piazza Trattoria,Japanese,Medium,Midtown,11:00-19:00,4.63,1
+625,Aztec Sun Mexican Grill,French,Expensive,Upper East Side,17:00-01:00,2.37,0
+626,Tiki Hut Grill & Bar,Ethiopian,Expensive,Brooklyn Heights,10:00-18:00,1.09,1
+627,Fireside Tavern,Mexican,Expensive,Chelsea,16:00-00:00,2.2,1
+628,Fire & Ice Grill,Lebanese,Cheap,Financial District,11:00-23:00,2.53,0
+629,Golden Harvest Diner,Moroccan,Expensive,East Village,13:00-21:00,4.85,1
+630,Driftwood Tavern,Thai,Medium,East Village,17:00-01:00,1.05,1
+631,Blue Ribbon BBQ,Ethiopian,Cheap,Tribeca,13:00-21:00,3.79,0
+632,Sunflower Cafe & Bakery,Italian,Expensive,Lower East Side,12:00-00:00,4.5,0
+633,Bamboo Breeze Bistro,Ethiopian,Expensive,Hell's Kitchen,12:00-00:00,4.94,0
+634,Sunset Grill & Bar,Chinese,Medium,East Village,09:00-21:00,4.85,0
+635,Bella Vita Ristorante,French,Cheap,Harlem,08:00-20:00,2.83,1
+636,Spice of Life Indian Cuisine,American,Cheap,Astoria,10:00-18:00,4.28,0
+637,Harvest Moon Cafe,French,Medium,Williamsburg,09:00-21:00,3.65,1
+638,Bluewater Grill & Bar,Chinese,Cheap,West Village,11:00-23:00,3.25,1
+639,Olive Branch Grill,Mediterranean,Medium,Astoria,06:00-14:00,4.06,1
+640,Bella Amore Ristorante,Lebanese,Expensive,Prospect Heights,06:00-14:00,4.83,0
+641,The Spicy Spoon,Mexican,Medium,Brooklyn Heights,16:00-00:00,1.25,0
+642,Bluewater Grill & Bar,Indian,Expensive,Brooklyn Heights,08:00-20:00,4.85,1
+643,Oasis Mediterranean,Ethiopian,Expensive,Williamsburg,15:00-23:00,1.23,0
+644,Emerald Isle Eatery,Chinese,Medium,Long Island City,08:00-20:00,1.26,0
+645,Fireside Tavern,Indian,Medium,Harlem,08:00-20:00,1.92,1
+646,Bella Vita Ristorante,Mexican,Cheap,Prospect Heights,07:00-14:00,1.86,1
+647,Coastal Catch Seafood,Indian,Expensive,East Village,18:00-02:00,1.92,0
+648,Moonlight Serenade Lounge,Thai,Cheap,Williamsburg,13:00-21:00,4.97,0
+649,Bamboo Garden Restaurant,Indian,Expensive,Midtown,07:00-17:00,2.24,0
+650,Red Pepper Asian Fusion,Chinese,Cheap,Soho,15:00-23:00,3.64,0
+651,Bella Vista Bistro,American,Expensive,East Village,07:00-14:00,4.91,1
+652,Blue Horizon Seafood,Mediterranean,Cheap,Midtown,06:00-14:00,2.3,0
+653,Harvest Table Cafe,Korean,Cheap,Greenwich Village,10:00-18:00,1.83,0
+654,Moonlit Oasis Lounge,Moroccan,Medium,Midtown,10:00-18:00,4.59,0
+655,Spice Route Indian Cuisine,Moroccan,Cheap,Upper East Side,11:00-23:00,4.56,1
+656,Driftwood Tavern,Korean,Expensive,Midtown,12:00-20:00,4.14,0
+657,Harvest Table Cafe,Lebanese,Cheap,Financial District,12:00-00:00,1.01,1
+658,Spice Island Grill,Moroccan,Expensive,Upper East Side,07:00-15:00,2.35,1
+659,Fireside Fare,Vietnamese,Cheap,Williamsburg,16:00-00:00,1.6,0
+660,Riverside Cafe,Mexican,Expensive,Harlem,16:00-00:00,3.11,0
+661,Thai Orchid Garden,Lebanese,Expensive,Harlem,14:00-22:00,3.81,1
+662,Savory Spice Kitchen,Lebanese,Cheap,Brooklyn Heights,11:00-19:00,2.38,0
+663,Bluewater Grill & Bar,Greek,Cheap,Prospect Heights,07:00-17:00,4.66,1
+664,Bluebird Cafe,Turkish,Cheap,Tribeca,14:00-22:00,2.88,1
+665,Picante Peppers Mexican,Thai,Cheap,Bushwick,14:00-22:00,2.12,1
+666,Green Garden Kitchen,Japanese,Cheap,East Village,17:00-01:00,4.7,1
+667,Sunset Grill & Bar,French,Medium,Upper East Side,14:00-22:00,3.07,1
+668,Fire & Ice Grill,Argentinian,Cheap,East Village,16:00-00:00,1.41,1
+669,Fiesta Mexicana,Argentinian,Expensive,Upper East Side,07:00-17:00,1.28,1
+670,Zenith Zen Sushi,Mediterranean,Cheap,Upper West Side,12:00-00:00,2.37,0
+671,Ocean Blue Grill,Italian,Medium,Chelsea,10:00-18:00,3.91,1
+672,Bella Luna Trattoria,Argentinian,Cheap,Financial District,07:00-17:00,2.65,0
+673,Red Lantern Chinese,Russian,Expensive,West Village,12:00-00:00,4.39,1
+674,Zenith Zen Sushi,Brazilian,Expensive,Tribeca,15:00-23:00,1.03,0
+675,Golden Gate Diner,Turkish,Expensive,Upper West Side,06:00-14:00,1.03,0
+676,Moonlit Oasis Lounge,Thai,Expensive,Long Island City,17:00-01:00,3.47,0
+677,Spice Island Grill,Lebanese,Medium,Hell's Kitchen,11:00-23:00,4.06,0
+678,Paradise Cove Cafe,Argentinian,Expensive,Soho,09:00-21:00,3.95,1
+679,Bella Luna Trattoria,Lebanese,Cheap,West Village,12:00-20:00,4.99,0
+680,Bella Vista Bistro,Korean,Expensive,Lower East Side,11:00-19:00,4.71,1
+681,Rustic Roots Cafe,Ethiopian,Medium,Long Island City,13:00-21:00,3.24,0
+682,Olive Branch Grill,Russian,Expensive,Astoria,08:00-16:00,2.25,0
+683,Casa Verde Taqueria,Greek,Medium,Brooklyn Heights,07:00-15:00,2.39,1
+684,Piccolo Pizzeria,Chinese,Medium,Lower East Side,10:00-18:00,3.49,0
+685,Red Lantern Chinese,Moroccan,Medium,Astoria,12:00-20:00,2.73,0
+686,Bella Terra Bistro,Argentinian,Expensive,Bushwick,06:00-14:00,1.85,1
+687,Zen Fusion Sushi,Korean,Medium,Lower East Side,07:00-17:00,1.64,0
+688,Casa Verde Taqueria,French,Expensive,Lower East Side,12:00-20:00,4.38,1
+689,Riverside Cafe,Korean,Expensive,Harlem,11:00-23:00,1.9,0
+690,Coconut Cove Caribbean,Turkish,Expensive,Tribeca,11:00-19:00,4.42,0
+691,The Spicy Spoon,Vietnamese,Medium,Park Slope,07:00-17:00,2.95,0
+692,Piccolo Pizzeria,Chinese,Medium,Park Slope,08:00-16:00,2.29,1
+693,Zen Garden Sushi Bar,Chinese,Expensive,Hell's Kitchen,15:00-23:00,3.06,0
+694,Moonlight Serenade Lounge,Italian,Medium,Chelsea,09:00-17:00,1.89,1
+695,Bella Vita Ristorante,Chinese,Expensive,Hell's Kitchen,07:00-14:00,1.55,1
+696,Fusion Flavors Kitchen,Mediterranean,Expensive,Bushwick,12:00-00:00,1.2,1
+697,Harvest Table Cafe,Thai,Expensive,Upper West Side,07:00-14:00,3.65,0
+698,Bamboo Grove Bistro,Italian,Medium,Williamsburg,14:00-22:00,2.33,0
+699,Spice World,French,Medium,Chelsea,11:00-23:00,2.9,1
+700,Red Lantern Chinese,Thai,Cheap,Brooklyn Heights,09:00-21:00,4.03,0
+701,Moonlight Serenade Lounge,Russian,Medium,Chelsea,10:00-18:00,1.77,0
+702,Peking Palace Chinese,Russian,Medium,Williamsburg,11:00-19:00,3.39,0
+703,Bella Luna Trattoria,Turkish,Cheap,Financial District,13:00-21:00,2.4,0
+704,Harvest Table Cafe,Spanish,Medium,Greenwich Village,10:00-22:00,4.67,0
+705,Emerald Isle Eatery,Turkish,Expensive,Prospect Heights,09:00-17:00,4.13,1
+706,Casa Verde Taqueria,Mediterranean,Expensive,Prospect Heights,09:00-17:00,1.8,0
+707,Harvest Table Cafe,Chinese,Cheap,Tribeca,14:00-22:00,1.12,0
+708,Wildflower Cafe,Thai,Medium,Tribeca,09:00-17:00,3.39,1
+709,Tandoori Delights,Spanish,Cheap,Upper West Side,12:00-00:00,1.83,0
+710,Bella Napoli Pizzeria,Korean,Expensive,Upper East Side,13:00-21:00,4.43,1
+711,The Spicy Spoon,Mediterranean,Cheap,Upper East Side,16:00-00:00,4.44,0
+712,Pepperwood Grill,Lebanese,Medium,Midtown,16:00-00:00,1.69,0
+713,Paradise Palms Tiki Bar,Lebanese,Medium,Long Island City,10:00-18:00,2.96,1
+714,Casa de Campo,Lebanese,Expensive,Astoria,12:00-20:00,1.74,0
+715,Morning Mist Cafe,Spanish,Expensive,Brooklyn Heights,07:00-14:00,2.21,1
+716,Mango Madness Tropical,Chinese,Expensive,Astoria,10:00-18:00,3.57,0
+717,Sizzling Salsa Cantina,French,Cheap,Tribeca,18:00-02:00,3.02,0
+718,Zenith Zen Sushi,Korean,Expensive,Brooklyn Heights,07:00-14:00,1.36,0
+719,Firefly Lounge,Russian,Expensive,Astoria,10:00-18:00,1.69,0
+720,Royal Oak Tavern,Korean,Medium,Greenwich Village,17:00-01:00,2.39,0
+721,Fiesta Mexicana,French,Expensive,Upper West Side,07:00-15:00,4.35,1
+722,Harborview Cafe,Ethiopian,Expensive,Midtown,09:00-21:00,1.02,0
+723,Mountain View Cafe,Brazilian,Medium,Harlem,15:00-23:00,3.97,1
+724,The Spicy Spoon,Moroccan,Expensive,Upper West Side,10:00-22:00,4.08,0
+725,Golden Gate Diner,Brazilian,Expensive,Tribeca,08:00-20:00,2.0,1
+726,Bluebird Cafe,Ethiopian,Cheap,Williamsburg,12:00-20:00,3.82,1
+727,Bella Terra Bistro,French,Expensive,Upper West Side,06:00-14:00,3.04,1
+728,Harbor Lights Seafood,Mexican,Cheap,Midtown,08:00-16:00,3.28,1
+729,Riverside Cafe,Thai,Expensive,Harlem,11:00-19:00,1.53,1
+730,Bella Vista Bistro,Ethiopian,Expensive,East Village,08:00-20:00,4.39,0
+731,Sunset Strip Steakhouse,Japanese,Cheap,Long Island City,07:00-14:00,4.2,0
+732,Paradise Cove Cafe,Chinese,Cheap,Harlem,10:00-18:00,3.65,0
+733,Golden Harvest Diner,Greek,Expensive,Hell's Kitchen,11:00-19:00,4.13,0
+734,Jasmine Thai Cuisine,Ethiopian,Medium,East Village,17:00-01:00,3.22,1
+735,Fusion Flavors Kitchen,Argentinian,Medium,Brooklyn Heights,11:00-23:00,2.58,1
+736,Red Lantern Chinese,Thai,Cheap,Lower East Side,08:00-16:00,4.03,1
+737,Firefly Lounge,Mediterranean,Medium,Upper East Side,10:00-22:00,2.13,1
+738,Aztec Sun Mexican Grill,Japanese,Expensive,Astoria,12:00-00:00,1.62,0
+739,Orchard View Bistro,Russian,Medium,Upper East Side,11:00-23:00,2.23,1
+740,Mountain View Cafe,Indian,Expensive,Upper West Side,07:00-14:00,3.42,0
+741,Bamboo Grove Bistro,Thai,Medium,Upper East Side,11:00-19:00,3.25,1
+742,Red Lantern Chinese,Spanish,Expensive,Bushwick,11:00-19:00,2.6,1
+743,Golden Harvest Diner,Spanish,Cheap,Park Slope,16:00-00:00,2.13,0
+744,La Piazza Trattoria,Korean,Medium,Harlem,08:00-20:00,4.86,1
+745,Fire & Ice Grill,Chinese,Medium,Lower East Side,18:00-02:00,1.99,1
+746,Moonlit Oasis Lounge,Chinese,Medium,East Village,10:00-18:00,1.83,0
+747,Spice of Life Indian Cuisine,Korean,Medium,Financial District,15:00-23:00,2.79,0
+748,Fusion Flavors Kitchen,Mediterranean,Expensive,Brooklyn Heights,09:00-21:00,1.83,1
+749,Casa del Sol,Korean,Medium,Bushwick,07:00-15:00,4.49,0
+750,Terra Nova Tavern,Argentinian,Medium,Financial District,16:00-00:00,2.0,1
+751,Casa Verde Taqueria,Indian,Medium,Chelsea,14:00-22:00,3.03,1
+752,Jasmine Thai Cuisine,French,Cheap,Long Island City,07:00-14:00,3.77,0
+753,Lakeside Bistro,Indian,Cheap,Bushwick,15:00-23:00,4.96,1
+754,Bamboo Grove Bistro,Thai,Expensive,Prospect Heights,09:00-17:00,4.13,0
+755,Harborview Cafe,American,Cheap,Park Slope,13:00-21:00,2.59,1
+756,Riverwalk Cafe,Mediterranean,Expensive,Harlem,10:00-22:00,4.4,1
+757,Island Oasis Cafe,Turkish,Medium,Greenwich Village,11:00-19:00,4.87,1
+758,Picante Peppers Mexican,Vietnamese,Cheap,Soho,08:00-16:00,4.52,0
+759,Bella Napoli Pizzeria,Thai,Medium,Brooklyn Heights,16:00-00:00,3.83,0
+760,Royal Oak Tavern,Argentinian,Medium,West Village,10:00-18:00,3.16,1
+761,Sunshine Cafe & Bakery,Thai,Cheap,Brooklyn Heights,17:00-01:00,2.6,1
+762,Pacific Pearl Oyster Bar,Russian,Expensive,Soho,07:00-14:00,4.27,1
+763,Moonlit Oasis Lounge,Chinese,Expensive,Astoria,12:00-20:00,4.54,0
+764,Black Forest Bistro,Moroccan,Cheap,Midtown,07:00-14:00,3.53,0
+765,Coastal Catch Seafood,Greek,Expensive,Williamsburg,09:00-17:00,1.2,0
+766,Pepper Pot Cafe,American,Cheap,Prospect Heights,12:00-20:00,4.23,1
+767,Bella Luna Trattoria,Spanish,Cheap,Upper West Side,07:00-17:00,1.61,0
+768,Driftwood Tavern,Thai,Cheap,Prospect Heights,11:00-19:00,3.84,0
+769,Casa Verde Taqueria,Japanese,Cheap,Astoria,06:00-14:00,3.36,0
+770,Thai Orchid Garden,Mexican,Expensive,Long Island City,12:00-00:00,4.78,1
+771,Green Garden Kitchen,Chinese,Cheap,Midtown,14:00-22:00,1.06,0
+772,Fusion Flavors Kitchen,Japanese,Medium,Upper East Side,16:00-00:00,1.29,0
+773,Harborview Cafe,Chinese,Expensive,East Village,15:00-23:00,1.93,1
+774,Olive Branch Grill,Turkish,Cheap,Upper West Side,07:00-14:00,1.51,0
+775,Morning Mist Cafe,Brazilian,Cheap,Midtown,15:00-23:00,3.39,1
+776,Bella Napoli Pizzeria,Spanish,Cheap,Astoria,06:00-14:00,2.93,1
+777,Blueberry Hill Pancake House,Indian,Expensive,Hell's Kitchen,08:00-20:00,3.61,1
+778,Spice of Life Indian Cuisine,Vietnamese,Expensive,Upper West Side,08:00-20:00,2.1,0
+779,Picante Peppers Mexican,Ethiopian,Cheap,West Village,08:00-16:00,3.47,1
+780,Moonlight Serenade Lounge,Greek,Cheap,East Village,08:00-20:00,4.25,0
+781,Fire & Ice Grill,Mexican,Expensive,Park Slope,06:00-14:00,4.85,1
+782,Jasmine Thai Cuisine,Mexican,Expensive,Soho,09:00-17:00,1.08,1
+783,Zen Garden Sushi Bar,Argentinian,Expensive,Soho,07:00-17:00,1.86,1
+784,Island Oasis Cafe,American,Medium,Prospect Heights,13:00-21:00,4.99,0
+785,Blueberry Hill Pancake House,Mexican,Expensive,Tribeca,11:00-23:00,3.76,1
+786,Bella Vista Bistro,Indian,Expensive,Long Island City,11:00-23:00,2.91,0
+787,Thai Orchid Garden,American,Medium,West Village,09:00-17:00,1.0,0
+788,Harvest Moon Cafe,Thai,Expensive,Chelsea,07:00-15:00,1.44,0
+789,Fusion Flavors Kitchen,Ethiopian,Medium,Greenwich Village,12:00-00:00,2.75,1
+790,Fiesta Mexicana,Spanish,Expensive,Financial District,08:00-16:00,3.82,1
+791,Blue Ribbon BBQ,Turkish,Expensive,Astoria,17:00-01:00,2.43,0
+792,Sunflower Cafe & Bakery,Chinese,Expensive,Prospect Heights,06:00-14:00,4.37,1
+793,Harbor Lights Seafood,Moroccan,Cheap,Park Slope,18:00-02:00,1.24,0
+794,Sunrise Diner,Indian,Medium,Tribeca,10:00-18:00,3.8,1
+795,Sunshine Cafe & Bakery,French,Cheap,Upper East Side,16:00-00:00,3.39,0
+796,Thai Orchid Garden,Argentinian,Medium,East Village,08:00-16:00,1.81,1
+797,Terra Nova Tavern,Italian,Cheap,Harlem,17:00-01:00,4.59,0
+798,Casa Verde Taqueria,Spanish,Expensive,Harlem,07:00-14:00,2.94,0
+799,Bella Napoli Pizzeria,Moroccan,Expensive,West Village,17:00-01:00,2.3,1
+800,Morning Mist Cafe,Moroccan,Expensive,Midtown,10:00-22:00,4.38,0
+801,Tokyo Fusion Sushi,Mediterranean,Cheap,Prospect Heights,12:00-20:00,4.71,1
+802,Zen Garden Sushi Bar,Indian,Medium,Upper East Side,08:00-20:00,1.17,1
+803,Ocean Blue Grill,Lebanese,Cheap,Brooklyn Heights,11:00-19:00,4.28,0
+804,Oceanfront Oyster Bar,Thai,Expensive,Midtown,06:00-14:00,4.42,1
+805,Picante Peppers Mexican,Chinese,Medium,East Village,07:00-15:00,4.02,1
+806,Bamboo Breeze Bistro,Russian,Expensive,Long Island City,16:00-00:00,1.89,0
+807,Casa Verde Taqueria,French,Expensive,Hell's Kitchen,07:00-17:00,3.49,0
+808,Thai Orchid Garden,Chinese,Cheap,Bushwick,16:00-00:00,3.79,0
+809,Riverwalk Cafe,Korean,Cheap,West Village,07:00-17:00,4.69,1
+810,Mango Tango Bistro,Ethiopian,Cheap,Brooklyn Heights,15:00-23:00,4.14,1
+811,Lakeside Bistro,Japanese,Expensive,Upper East Side,07:00-17:00,1.81,1
+812,Bella Amore Ristorante,Turkish,Cheap,Midtown,07:00-14:00,1.75,1
+813,Savory Spice Kitchen,Indian,Medium,Hell's Kitchen,16:00-00:00,1.85,0
+814,Lotus Blossom Chinese,Mexican,Medium,Williamsburg,13:00-21:00,4.72,1
+815,Firefly Lounge,Turkish,Medium,Chelsea,08:00-16:00,3.15,0
+816,Savory Spice Kitchen,Moroccan,Cheap,Lower East Side,17:00-01:00,3.2,1
+817,Red Lantern Chinese,Indian,Cheap,Tribeca,10:00-22:00,3.45,0
+818,Fireside Tavern,Vietnamese,Expensive,Hell's Kitchen,13:00-21:00,1.49,0
+819,Riverside Cafe,Brazilian,Medium,Upper East Side,12:00-20:00,1.23,1
+820,Harbor Lights Seafood,Lebanese,Medium,Bushwick,10:00-18:00,2.77,1
+821,Pepper Pot Cafe,Turkish,Cheap,Upper East Side,09:00-21:00,3.98,0
+822,Blue Horizon Seafood,Vietnamese,Expensive,Park Slope,10:00-22:00,1.6,0
+823,Emerald Isle Eatery,French,Expensive,Long Island City,07:00-17:00,3.79,1
+824,Zen Garden Sushi Bar,Italian,Expensive,West Village,07:00-15:00,1.01,1
+825,Sunflower Cafe & Bakery,Greek,Cheap,Williamsburg,14:00-22:00,2.5,1
+826,Bamboo Grove Bistro,Moroccan,Cheap,Lower East Side,15:00-23:00,4.87,0
+827,Fireside Fare,Mexican,Medium,Upper East Side,12:00-20:00,3.69,0
+828,Oasis Mediterranean,Spanish,Expensive,Prospect Heights,13:00-21:00,2.0,0
+829,Blue Horizon Seafood,Indian,Cheap,West Village,10:00-22:00,4.02,1
+830,Coastal Catch Seafood,Indian,Cheap,Lower East Side,09:00-17:00,2.29,1
+831,Pepperoni Palace Pizzeria,Argentinian,Expensive,Bushwick,08:00-16:00,2.19,0
+832,Black Forest Bistro,Korean,Medium,Upper West Side,08:00-16:00,4.77,1
+833,La Piazza Trattoria,Greek,Medium,Brooklyn Heights,08:00-16:00,3.31,1
+834,Tandoori Delights,Greek,Cheap,Soho,12:00-20:00,1.25,0
+835,Red Lantern Chinese,Indian,Expensive,Astoria,07:00-17:00,3.83,1
+836,Sunset Strip Steakhouse,Moroccan,Cheap,Greenwich Village,11:00-23:00,3.47,1
+837,Pasta Perfection,Russian,Medium,Long Island City,07:00-17:00,1.99,0
+838,Tropical Taste Kitchen,Spanish,Medium,Williamsburg,11:00-23:00,1.41,1
+839,Oceanview Grill,Argentinian,Medium,Hell's Kitchen,07:00-14:00,4.48,0
+840,Tiki Hut Grill & Bar,Argentinian,Expensive,Williamsburg,08:00-20:00,4.77,0
+841,Spice Island Grill,Mediterranean,Medium,Chelsea,15:00-23:00,1.11,1
+842,Royal Oak Tavern,Japanese,Medium,Hell's Kitchen,16:00-00:00,4.94,1
+843,Piccolo Pizzeria,Korean,Expensive,Chelsea,11:00-19:00,2.56,1
+844,Mountain View Cafe,French,Cheap,Midtown,16:00-00:00,3.35,0
+845,Piccolo Pizzeria,Brazilian,Medium,Financial District,08:00-20:00,4.6,1
+846,La Piazza Trattoria,Korean,Cheap,Park Slope,08:00-20:00,2.15,1
+847,Seaside Grill & Bar,Mediterranean,Cheap,West Village,14:00-22:00,4.24,0
+848,Green Leaf Salad Bar,Ethiopian,Expensive,Williamsburg,12:00-20:00,1.55,1
+849,Black Forest Bistro,American,Medium,Tribeca,11:00-19:00,1.7,1
+850,Blue Horizon Seafood,Korean,Cheap,West Village,10:00-18:00,4.47,0
+851,Morning Mist Cafe,Thai,Expensive,Astoria,11:00-23:00,3.34,1
+852,Bamboo Breeze Bistro,Italian,Expensive,Financial District,08:00-20:00,2.07,1
+853,Pepperwood Grill,Brazilian,Cheap,Upper East Side,10:00-22:00,2.17,1
+854,Blueberry Hill Pancake House,Thai,Cheap,Harlem,12:00-00:00,1.32,0
+855,Bluebird Cafe,Lebanese,Expensive,East Village,09:00-21:00,2.96,1
+856,Orchard View Bistro,American,Expensive,Upper West Side,09:00-17:00,4.09,1
+857,Blue Horizon Seafood,Italian,Cheap,Tribeca,11:00-23:00,1.89,0
+858,Blue Horizon Seafood,Lebanese,Cheap,Upper West Side,16:00-00:00,3.35,0
+859,Bella Terra Bistro,Russian,Expensive,Financial District,17:00-01:00,3.86,0
+860,Pacific Pearl Oyster Bar,Japanese,Medium,Tribeca,07:00-17:00,3.49,1
+861,Sunset Strip Steakhouse,Indian,Expensive,Bushwick,14:00-22:00,3.67,1
+862,Driftwood Tavern,Indian,Expensive,Harlem,08:00-16:00,1.81,0
+863,Firefly Lounge,Turkish,Medium,Lower East Side,07:00-15:00,2.89,0
+864,Riverwalk Cafe,Moroccan,Expensive,Prospect Heights,10:00-18:00,2.29,0
+865,Sunflower Cafe & Bakery,Mexican,Medium,Midtown,08:00-20:00,2.57,1
+866,Fire & Ice Grill,Moroccan,Cheap,East Village,07:00-14:00,2.98,0
+867,Driftwood Tavern,Greek,Expensive,Soho,07:00-14:00,3.96,1
+868,Harvest Table Cafe,Vietnamese,Medium,West Village,13:00-21:00,1.53,0
+869,Oceanfront Oyster Bar,American,Medium,Park Slope,17:00-01:00,1.51,1
+870,Harvest Moon Cafe,Chinese,Expensive,Financial District,13:00-21:00,3.25,1
+871,Red Lantern Chinese,French,Expensive,East Village,11:00-19:00,3.58,1
+872,Oasis Mediterranean,Indian,Cheap,Lower East Side,16:00-00:00,2.16,1
+873,Blue Horizon Seafood,Turkish,Expensive,East Village,12:00-20:00,2.82,0
+874,Bella Vita Ristorante,Korean,Medium,Greenwich Village,08:00-20:00,2.96,0
+875,Spice Route Indian Cuisine,Turkish,Medium,Soho,11:00-19:00,3.69,1
+876,Blue Ribbon BBQ,Moroccan,Cheap,Long Island City,14:00-22:00,2.54,1
+877,Firefly Lounge,Turkish,Expensive,Lower East Side,10:00-18:00,4.32,0
+878,Fiesta Mexicana,Lebanese,Medium,Upper East Side,10:00-22:00,2.63,1
+879,Paradise Cove Cafe,Brazilian,Medium,Midtown,10:00-18:00,3.4,0
+880,Olive Branch Grill,Turkish,Expensive,Williamsburg,16:00-00:00,4.21,1
+881,Bella Vista Bistro,Moroccan,Medium,Harlem,13:00-21:00,2.64,1
+882,Sunset Grill & Bar,Brazilian,Medium,Brooklyn Heights,10:00-18:00,1.08,0
+883,Blue Horizon Seafood,Thai,Medium,Bushwick,10:00-18:00,3.6,0
+884,Red Pepper Asian Fusion,Brazilian,Expensive,Midtown,08:00-20:00,2.41,0
+885,Tropical Taste Kitchen,American,Expensive,Lower East Side,08:00-16:00,3.33,0
+886,Oasis Mediterranean,Ethiopian,Cheap,Soho,12:00-00:00,2.53,0
+887,Fireside Tavern,French,Expensive,Upper East Side,12:00-00:00,4.95,1
+888,Casa del Sol,Russian,Medium,Park Slope,16:00-00:00,3.96,0
+889,Pacific Pearl Oyster Bar,Italian,Expensive,Williamsburg,14:00-22:00,2.09,0
+890,Golden Gate Diner,Vietnamese,Cheap,Upper East Side,10:00-22:00,2.93,1
+891,Zen Garden Sushi Bar,Russian,Cheap,Park Slope,10:00-18:00,3.35,1
+892,Golden Harvest Diner,Greek,Medium,East Village,08:00-16:00,3.67,1
+893,Rustic Roots Cafe,Turkish,Medium,Bushwick,12:00-20:00,3.82,0
+894,Blue Ribbon BBQ,Argentinian,Cheap,Greenwich Village,11:00-23:00,2.96,1
+895,Tiki Hut Grill & Bar,Mediterranean,Medium,Midtown,08:00-20:00,2.8,1
+896,Fireside Fare,Italian,Expensive,Williamsburg,07:00-15:00,3.82,1
+897,Tiki Hut Grill & Bar,Mediterranean,Medium,Upper East Side,14:00-22:00,1.83,0
+898,Piccolo Pizzeria,Moroccan,Cheap,Greenwich Village,11:00-19:00,3.07,1
+899,Fire & Ice Grill,Brazilian,Medium,Greenwich Village,06:00-14:00,2.32,1
+900,The Spicy Spoon,Spanish,Cheap,Midtown,07:00-14:00,1.91,1
+901,Blue Horizon Seafood,Thai,Cheap,Upper West Side,09:00-21:00,2.43,0
+902,Mango Madness Tropical,Italian,Medium,Harlem,07:00-17:00,1.24,0
+903,Sunflower Cafe & Bakery,Japanese,Cheap,West Village,10:00-22:00,2.05,1
+904,Aztec Sun Mexican Grill,Mediterranean,Medium,Brooklyn Heights,17:00-01:00,4.84,0
+905,Pepper Pot Cafe,Vietnamese,Cheap,Astoria,11:00-23:00,2.03,0
+906,Rustic Roots Cafe,Argentinian,Medium,East Village,06:00-14:00,1.75,1
+907,Fireside Tavern,Ethiopian,Expensive,Bushwick,12:00-20:00,2.6,1
+908,Bella Amore Ristorante,Indian,Cheap,Soho,06:00-14:00,2.16,0
+909,Olive Branch Grill,Argentinian,Expensive,Williamsburg,08:00-16:00,1.12,1
+910,Paradise Palms Tiki Bar,Turkish,Cheap,Prospect Heights,09:00-17:00,1.02,0
+911,Moonlight Serenade Lounge,Chinese,Expensive,Hell's Kitchen,18:00-02:00,4.88,0
+912,Redwood Smokehouse,Japanese,Medium,Bushwick,11:00-23:00,2.81,0
+913,Tokyo Fusion Sushi,Italian,Medium,Hell's Kitchen,12:00-20:00,4.02,1
+914,Sunshine Cafe & Bakery,Lebanese,Medium,Chelsea,13:00-21:00,2.94,0
+915,Riverside Bistro,Turkish,Expensive,Harlem,13:00-21:00,1.16,0
+916,Piccolo Pizzeria,Indian,Cheap,Prospect Heights,17:00-01:00,1.84,0
+917,La Piazza Trattoria,Thai,Medium,Astoria,11:00-23:00,4.48,1
+918,Lakeside Bistro,Korean,Expensive,Hell's Kitchen,10:00-18:00,4.51,1
+919,Fiesta Mexicana,French,Expensive,West Village,17:00-01:00,4.42,0
+920,Bluewater Grill & Bar,Mexican,Medium,Astoria,18:00-02:00,1.48,0
+921,Blue Horizon Seafood,Mexican,Cheap,Upper East Side,14:00-22:00,3.3,1
+922,Mountain View Cafe,Lebanese,Cheap,Soho,12:00-00:00,4.56,0
+923,Coastal Catch Seafood,Indian,Expensive,West Village,18:00-02:00,4.99,1
+924,Terra Nova Tavern,Greek,Medium,Soho,09:00-21:00,2.32,1
+925,Oceanfront Oyster Bar,American,Expensive,Astoria,16:00-00:00,3.04,1
+926,Spice of Life Indian Cuisine,Greek,Cheap,Soho,09:00-21:00,1.81,0
+927,Sunrise Diner,Mexican,Expensive,Midtown,11:00-23:00,4.52,0
+928,Moonlight Serenade Lounge,Korean,Cheap,Astoria,15:00-23:00,3.8,1
+929,Fireside Fare,Spanish,Cheap,Upper East Side,13:00-21:00,3.39,0
+930,Lakeside Bistro,Ethiopian,Cheap,Brooklyn Heights,12:00-00:00,2.93,1
+931,Lakeside Bistro,Ethiopian,Cheap,Soho,11:00-23:00,2.67,0
+932,Spice Market Buffet,Brazilian,Cheap,Long Island City,07:00-14:00,2.86,1
+933,Coastal Catch Seafood,Ethiopian,Cheap,Harlem,09:00-21:00,1.49,1
+934,Pepper Pot Cafe,Chinese,Medium,Financial District,09:00-21:00,4.65,0
+935,Harborview Cafe,Greek,Cheap,Bushwick,15:00-23:00,4.61,0
+936,Oceanfront Oyster Bar,Vietnamese,Cheap,Harlem,09:00-21:00,1.51,0
+937,Oasis Mediterranean,Brazilian,Cheap,Long Island City,18:00-02:00,3.2,1
+938,Spice World,Brazilian,Cheap,Tribeca,11:00-19:00,4.76,0
+939,Casa Verde Taqueria,American,Medium,Chelsea,09:00-17:00,2.14,0
+940,Red Pepper Asian Fusion,Turkish,Cheap,Financial District,15:00-23:00,2.81,0
+941,Bluebird Cafe,Italian,Cheap,Hell's Kitchen,09:00-17:00,2.27,0
+942,Black Forest Bistro,Russian,Cheap,Upper West Side,16:00-00:00,2.66,0
+943,Harborview Cafe,Brazilian,Cheap,West Village,18:00-02:00,4.62,0
+944,Garden of Eatin',Korean,Cheap,Bushwick,07:00-17:00,3.61,1
+945,Bamboo Breeze Bistro,Mediterranean,Expensive,Upper East Side,16:00-00:00,1.89,1
+946,Blueberry Hill Pancake House,Spanish,Cheap,Chelsea,08:00-20:00,1.42,1
+947,Royal Oak Tavern,Moroccan,Cheap,Financial District,07:00-17:00,3.55,1
+948,Casa de Campo,Spanish,Cheap,Financial District,15:00-23:00,4.01,0
+949,Harvest Table Cafe,Thai,Cheap,Greenwich Village,11:00-23:00,1.72,1
+950,Royal Oak Tavern,Greek,Cheap,Tribeca,11:00-23:00,4.64,0
+951,Pepperoni Palace Pizzeria,Thai,Cheap,Hell's Kitchen,12:00-00:00,3.35,1
+952,Moonlight Cafe,French,Cheap,Financial District,11:00-19:00,3.14,1
+953,Orchard View Bistro,Moroccan,Medium,Greenwich Village,15:00-23:00,1.29,0
+954,Driftwood Tavern,French,Cheap,Tribeca,08:00-16:00,3.14,0
+955,Fireside Fare,Mediterranean,Cheap,West Village,07:00-17:00,3.24,1
+956,Spice World,Indian,Medium,Chelsea,06:00-14:00,2.55,0
+957,Casa del Sol,Indian,Expensive,Soho,08:00-16:00,2.58,0
+958,Piccolo Pizzeria,Ethiopian,Cheap,Lower East Side,07:00-14:00,4.71,0
+959,Bamboo Garden Restaurant,Argentinian,Medium,Upper West Side,16:00-00:00,2.23,1
+960,Firefly Lounge,Mexican,Expensive,Hell's Kitchen,09:00-21:00,2.64,0
+961,Bella Vita Ristorante,Chinese,Cheap,Bushwick,08:00-16:00,3.08,0
+962,Riverside Bistro,Japanese,Medium,Hell's Kitchen,07:00-15:00,3.15,1
+963,Terra Nova Tavern,Turkish,Medium,Williamsburg,16:00-00:00,3.87,1
+964,Tandoori Delights,Turkish,Expensive,Midtown,08:00-20:00,4.97,0
+965,Blue Horizon Seafood,American,Expensive,Brooklyn Heights,10:00-18:00,2.72,0
+966,Bluewater Grill & Bar,Russian,Medium,Hell's Kitchen,10:00-18:00,2.35,0
+967,Morning Mist Cafe,Brazilian,Expensive,Lower East Side,17:00-01:00,4.31,0
+968,Bella Luna Trattoria,Moroccan,Expensive,Long Island City,14:00-22:00,1.78,0
+969,Piccolo Pizzeria,Korean,Expensive,Bushwick,11:00-19:00,4.06,0
+970,Orchard View Bistro,Mediterranean,Expensive,Tribeca,07:00-17:00,2.01,0
+971,Sunshine Cafe & Bakery,Lebanese,Medium,East Village,12:00-00:00,3.27,0
+972,Blue Ribbon BBQ,Greek,Cheap,Williamsburg,14:00-22:00,2.44,1
+973,Golden Harvest Diner,Thai,Cheap,Chelsea,13:00-21:00,1.12,1
+974,Peking Palace Chinese,Italian,Medium,Harlem,12:00-00:00,3.61,1
+975,Spice World,Greek,Cheap,West Village,14:00-22:00,1.44,1
+976,Paradise Palms Tiki Bar,Ethiopian,Expensive,Hell's Kitchen,11:00-19:00,3.77,1
+977,Pasta Perfection,Mexican,Medium,Brooklyn Heights,16:00-00:00,3.41,0
+978,Bella Luna Trattoria,American,Cheap,Harlem,07:00-17:00,2.49,0
+979,Harvest Moon Cafe,Russian,Expensive,Prospect Heights,16:00-00:00,4.29,1
+980,Firefly Lounge,French,Expensive,East Village,11:00-23:00,1.65,1
+981,Black Forest Bistro,Mexican,Medium,Upper East Side,16:00-00:00,2.41,0
+982,Spice of Life Indian Cuisine,Russian,Expensive,Harlem,09:00-21:00,2.01,0
+983,Bamboo Garden Restaurant,Brazilian,Cheap,Prospect Heights,07:00-15:00,2.7,1
+984,Zen Garden Sushi Bar,Turkish,Cheap,Chelsea,14:00-22:00,3.13,0
+985,Harbor Lights Seafood,Turkish,Cheap,Chelsea,07:00-15:00,1.62,1
+986,Sunset Strip Steakhouse,Brazilian,Expensive,Soho,09:00-17:00,2.08,1
+987,Bella Vista Bistro,Vietnamese,Medium,Harlem,07:00-14:00,4.17,1
+988,Island Oasis Cafe,Mediterranean,Cheap,Hell's Kitchen,09:00-21:00,4.63,0
+989,Bamboo Garden Restaurant,Brazilian,Medium,Midtown,15:00-23:00,2.95,1
+990,Wildflower Cafe,Italian,Medium,East Village,07:00-15:00,2.22,1
+991,Piccolo Pizzeria,French,Expensive,Park Slope,09:00-17:00,4.71,0
+992,Spice Island Grill,Brazilian,Cheap,Financial District,11:00-19:00,2.69,1
+993,Picante Peppers Mexican,Indian,Medium,Park Slope,17:00-01:00,2.03,0
+994,Sunset Strip Steakhouse,Mediterranean,Expensive,Hell's Kitchen,12:00-00:00,3.83,0
+995,Ocean Blue Grill,Mexican,Expensive,Lower East Side,13:00-21:00,2.62,1
+996,Bella Luna Trattoria,Russian,Cheap,Hell's Kitchen,09:00-21:00,4.57,1
+997,Bella Napoli Pizzeria,Spanish,Cheap,Upper East Side,13:00-21:00,3.41,0
+998,Sunrise Diner,Moroccan,Expensive,Astoria,14:00-22:00,2.43,1
+999,Harborview Cafe,Brazilian,Expensive,Financial District,09:00-21:00,1.57,0
+1000,Moonlight Cafe,Lebanese,Cheap,Tribeca,13:00-21:00,2.48,1
